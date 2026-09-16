@@ -7,6 +7,13 @@
   <link rel="alternate" hreflang="en" href="https://ninomaetsukumo.github.io/">
   <link rel="alternate" hreflang="ja" href="https://ninomaetsukumo.github.io/ja.html">
   <title>Ninomae Tsukumo</title>
+  <script>
+    (function () {
+      var saved = localStorage.getItem('theme');
+      var theme = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      document.documentElement.setAttribute('data-theme', theme);
+    }());
+  </script>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -24,6 +31,9 @@
           <span class="active" aria-current="page">EN</span>
           <a href="ja.html" lang="ja">日本語</a>
         </div>
+        <button class="theme-toggle" type="button" aria-label="Switch theme" title="Switch light/dark theme">
+          <span class="theme-icon" aria-hidden="true">◐</span>
+        </button>
       </div>
     </div>
   </header>
@@ -95,5 +105,18 @@
     <p>© 2026 Ninomae Tsukumo. Independent research and educational publication.</p>
     <p>Nothing published here should be treated as legal, financial, regulatory, or investment advice.</p>
   </footer>
+
+  <script>
+    (function () {
+      var button = document.querySelector('.theme-toggle');
+      if (!button) return;
+      button.addEventListener('click', function () {
+        var current = document.documentElement.getAttribute('data-theme') || 'dark';
+        var next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('theme', next);
+      });
+    }());
+  </script>
 </body>
 </html>
