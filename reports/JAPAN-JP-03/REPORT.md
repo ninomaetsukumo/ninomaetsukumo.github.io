@@ -16,6 +16,80 @@ This does not resolve every question. The SIC was commissioned to examine Doshis
 
 The evidence does not support a theory that the U.S. military caused the accident. The Henoko base issue explains the educational and political setting, but the operational decisions documented in the public record were made by Japanese school and boat-side actors.
 
+
+## Visual evidence maps
+
+The following diagrams compress the case into decision points and evidentiary boundaries. They are summaries of the sourced record, not substitutes for the detailed findings.
+
+### Incident-day sequence
+
+```mermaid
+flowchart LR
+    A["Wave advisory active"] --> B["18 students board Fukutsu / Heiwamaru"]
+    B --> C["No supervising teacher aboard"]
+    C --> D["Departure relies heavily on operator judgment"]
+    D --> E["Coast Guard warns of high waves"]
+    E --> F["Warning acknowledged; voyage continues"]
+    F --> G["Students report fear / worsening conditions"]
+    G --> H["~10:10 Fukutsu capsizes"]
+    H --> I["~10:12 Heiwamaru capsizes"]
+    I --> J["Students make emergency calls / rescue begins"]
+    J --> K["Tomoka found inside overturned Heiwamaru"]
+```
+
+### Pre-incident warning accumulation
+
+```mermaid
+timeline
+    title Warning signals before 16 March 2026
+    2023 : Student reflection questions boat size / sea suitability
+         : Roughness and wave concern recorded
+    2023-2024 : Coast Guard / security-vessel interactions cause student fear
+              : Warning-related experiences appear in student reflections
+    2024 : Expected second boat absent; students rotated through one vessel
+    2025 : Boat activity cancelled for weather / sea conditions
+         : No durable written cancellation threshold created
+    2025 : Kanai tells school audience the sea is dangerous
+         : Mentions a fellow captain who died during maritime activity
+    2026-03-16 : Wave advisory active
+               : No teacher aboard
+               : Coast Guard high-wave warning acknowledged
+               : Voyage continues
+```
+
+### Responsibility / control matrix
+
+| Function | School / teachers | Operator side | Travel company | Regulator / investigator |
+|---|---|---|---|---|
+| Course selection | Selected and continued the Henoko boat course | Proposed / supplied marine activity | Outside normal control of boat program | — |
+| Operator qualification | Did not complete equivalent marine DD | Operated the vessels | Did not source/control this activity | MLIT later found required business registration absent |
+| Weather / go-no-go | No clear advisory-based stop rule | Practical go decision concentrated in Kanai | No control | Coast Guard later issued high-wave warning |
+| Onboard supervision | No teacher aboard | Captains/crew carried practical control | No control | SIC later found no school onboard safety management |
+| Route / navigation | No agreed school-side route control | Route not formally agreed among captains | No control | JTSB technical causation remains external |
+| Emergency response | Weak school-side onboard role | Incorrect Coast Guard number reportedly given before successful calls | No control | Coast Guard rescue / investigation |
+| Post-accident accountability | SIC, leadership changes, Safety Management Office | Operator-side conduct remained under investigation | — | Coast Guard / prosecutors / JTSB |
+
+### Established vs unresolved
+
+| Established in public record | Still unresolved / non-public |
+|---|---|
+| Wave advisory was active | Full Coast Guard survivor-interview record |
+| No supervising teacher boarded | Full medico-legal / autopsy detail |
+| Coast Guard high-wave warning was given and acknowledged | Exact technical mechanism of the second capsize |
+| Voyage continued after the warning | Exact mechanism of Tomoka's entrapment |
+| Students expressed fear before the first capsize | Final individual criminal responsibility |
+| MLIT found required passenger-transport business registration absent | Final civil allocation / settlement status |
+| SIC identified school safety-management deficiencies as the greatest cause | JTSB final technical findings |
+
+### The parents' three questions — evidence summary
+
+| Question | Current answer | Confidence | Main residual gap |
+|---|---|---|---|
+| Why were students placed on these boats? | A trusted educational relationship evolved into an independent marine activity without equivalent professional marine-operator due diligence. | High | No complete internal procurement / decision file is public |
+| Why did they depart without teachers? | There was no clear teacher-onboard requirement, and both supervising teachers accepted departure without onboard school supervision. | High | Individual subjective reasoning remains partly disputed |
+| Why did Tomoka die? | Public reporting states judicial autopsy found drowning, within a documented chain of institutional and operational safety failures. | Medium-High | Exact entrapment, injury contribution, and technical capsize mechanics remain non-public / pending |
+
+
 ## The three central questions
 
 ### 1. Why were students placed on these boats?
