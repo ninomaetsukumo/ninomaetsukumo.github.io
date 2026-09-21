@@ -73,7 +73,7 @@ timeline
 
 | Established in public record | Still unresolved / non-public |
 |---|---|
-| Wave advisory was active | Full Coast Guard survivor-interview record |
+| Wave advisory was active | Full Coast Guard survivor-interview record remains unavailable; some other Coast Guard records have been disclosed |
 | No supervising teacher boarded | Full medico-legal / autopsy detail |
 | Coast Guard high-wave warning was given and acknowledged | Exact technical mechanism of the second capsize |
 | Voyage continued after the warning | Exact mechanism of Tomoka's entrapment |
@@ -185,6 +185,32 @@ The strongest day-of reconstruction is a sequence, not a single mistake.
 ABC/TV Asahi reporting based on student accounts is especially useful because it predates the SIC and independently records key elements later found in the committee report: fear, increasing speed, student steering, worsening sea conditions and the wave immediately before capsize.
 
 The public evidence supports the statement that Kanai received and acknowledged a high-wave warning and continued the excursion. It does not establish his subjective motive, state of mind, or criminal guilt.
+
+
+### Early Fukutsu survivor account published before the SIC
+
+A detailed survivor account from **Fukutsu** was publicly circulated on 10–11 May 2026, more than two months before the SIC report. The intermediary, きーこ (@hirose_kiKO), said the text came from two Fukutsu students, had been sent to Tomoka's family, and was published with consent; the poster also said minor readability edits were made.
+
+The account describes deficient pre-boarding safety explanation, student steering, a Coast Guard wave warning, a change to the return route, increased speed, worsening waves, students becoming frightened and bracing for impact, the capsize, repeated immersion and student emergency calls. Many of those elements were later independently reflected in the SIC reconstruction.
+
+This gives the May account significant corroborative value, but it remains **attributed first-person evidence rather than an authenticated raw email**. One important wording difference is preserved: the student remembered the Coast Guard telling Kanai to return early as waves worsened, whereas the SIC later records repeated warnings that waves were high and that the boats should exercise sufficient caution. The stronger wording is therefore not treated as an official Coast Guard quotation.
+
+The account also reports disturbing remarks by surviving operator-side personnel after rescue. It does not establish intoxication: the student explicitly said they did not know whether alcohol, medication or drugs were involved.
+
+Sources:
+- https://x.com/hirose_kiKO/status/2053542453089804678
+- https://x.com/hirose_kiKO/status/2053682363071418729
+- https://note.com/brainy_koala934/n/nd73a20ee3e30
+
+### Coast Guard disclosure-record lead
+
+A 10 May Weekly Bunshun report states that it obtained Coast Guard records through an information-disclosure request, including a voyage-track diagram and 118 emergency-call records.
+
+That changes the access picture slightly. Project Blackbird still has not located the raw Coast Guard survivor-interview set in any public database, but at least some non-witness Coast Guard incident records have been obtainable through formal disclosure procedures. If JP-03 is reopened, targeted disclosure records should be prioritized over another broad website crawl.
+
+Sources:
+- https://bunshun.jp/denshiban/articles/b13968
+- https://bunshun.jp/articles/-/88458
 
 ## Student supervision and emergency preparedness
 
