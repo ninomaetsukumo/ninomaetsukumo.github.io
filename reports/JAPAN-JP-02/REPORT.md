@@ -13,7 +13,7 @@
 | Classification | Open Source / Unclassified |
 | Research Cut-Off | 17 September 2026 |
 | Publication Verification | 27 September 2026 |
-| Case Status | Publication-reviewed / publication-ready |
+| Case Status | CLOSED / PUBLISHED |
 | Edition | Public / privacy-reviewed |
 | Language | English |
 
