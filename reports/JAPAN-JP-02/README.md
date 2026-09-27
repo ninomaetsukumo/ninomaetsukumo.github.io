@@ -9,8 +9,9 @@ Public, publication-reviewed OSINT case study by **Ninomae Tsukumo**.
 - [English — REPORT.md](REPORT.md)
 - [日本語 — REPORT_JA.md](REPORT_JA.md)
 
-**Case status:** Closed to broad discovery  
+**Case status:** Published / closed to broad discovery  
 **Research cut-off:** 17 September 2026
+**Publication date:** 27 September 2026
 
 The report maps documented political-funding, support-organisation, corporate, public-sector, shared-address, and vendor relationships while preserving negative findings and unresolved evidence gaps. It does not establish a unified donor network, quid pro quo, circular funding, or criminal liability.
 
