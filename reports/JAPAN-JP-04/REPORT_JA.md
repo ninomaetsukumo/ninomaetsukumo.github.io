@@ -155,6 +155,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-001 — 外食分野の人材確保
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.maff.go.jp/j/shokusan/gaishoku_shokubunka/attach/pdf/index-590.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2023～2025年の調理職の有効求人倍率は2.90、2.79、2.47、接客・給仕は3.27、2.94、2.59であり、全職業の1.19、1.14、1.12を上回った。2025年の宿泊・飲食サービスの入職率27.8％、離職率23.7％は全産業の14.7％、13.7％を上回る。外国人就業者数も増加した。
 
 **評価と証拠上の限界：** 求人統計は職種別・対象範囲別であり、外国人がいなければ産業が存続できないという反実仮想を立証しない。
@@ -162,6 +164,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-001。
 
 ### F-002 — 経営・管理の3,000万円
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/content/001448070.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 公表された改正基準や諸外国との比較資料に3,000万円の資本要件が示される。しかし比較国の制度対象、現地賃金、事業用賃料、購買力などを揃えた公表算定過程は今回の調査で確認できなかった。
 
@@ -171,6 +175,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-003 — 永住関連の未納事例
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.shugiin.go.jp/internet/itdb_kaigiroku.nsf/html/kaigiroku/000421320240508017.htm) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 政府が取り上げた限定された処理集団では、扶養者に未納がある子の申請235件が、処分1,825件に関する調査から報告された。多くの案件で理由や故意性、未納継続期間は集計されていない。
 
 **評価と証拠上の限界：** 特定集団の235件から全国の永住者・永住申請者の故意の未納率は算出できない。
@@ -178,6 +184,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-003。
 
 ### F-004 — 永住許可と取消し
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://laws.e-gov.go.jp/api/2/law_data/326CO0000000319_20270401_506AC0000000060) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2027年4月1日に施行される永住関連の法定取消し・在留資格変更の枠組みは、許可時の審査とは別である。法律は通知、意見聴取、証拠提出等の手続と、一定の場合に別の在留資格へ変更する構造を含む。
 
@@ -187,6 +195,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-005 — 永住の非公表の数値基準
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321729) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 政府の回答資料は、所得、将来の年金見込み、補完資産等の具体的な基準額や算定根拠を公表する予定がないと明示した。
 
 **評価と証拠上の限界：** 公表平均所得から個別の世帯調整済み審査基準を再現することはできない。
@@ -194,6 +204,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-005。
 
 ### F-006 — 永住処分件数の比較
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032216481&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2025年の新規申請は75,968件、処分70,062件、許可39,865件、不許可28,218件、その他1,979件。許可件数は2024年の36,766件を上回る一方、処分中の許可割合は65.76％から56.90％へ低下した。
 
@@ -203,6 +215,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-007 — 国民年金の未納比較
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2024年度末、外国人の国民年金第1号被保険者77万人、24か月未納8万人。全体では第1号被保険者1,368万人、24か月未納72万人と記録される。
 
 **評価と証拠上の限界：** 未納件数は永住申請者の故意性や国籍別の同条件比較ではない。
@@ -210,6 +224,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-007。
 
 ### F-008 — 医療保険・年金に関する主張
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 公的保険を利用して高額医療を受け、保険料を残して出国するとの政治的主張は確認した一方、厳密な引用文言「払えないなら帰れ」の本人一次発言は確認できなかった。2025年度の年金24か月未納者計67万人のうち外国人7万人と記録された。
 
@@ -219,6 +235,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-009 — 訪日需要と支出
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.jnto.go.jp/news/_files/20260916_1615.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 1～8月訪日外客数は2024年24,008,405人、2025年28,384,099人、2026年27,626,300人。第2四半期の訪日消費は同順に2.1402兆円、2.5043兆円、2.5125兆円（各期の第2次速報値）と記録される。
 
 **評価と証拠上の限界：** 入国者数と支出の期間・集計対象を揃える必要がある。需要の増減を入国規制だけで説明できない。
@@ -226,6 +244,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-009。
 
 ### F-010 — 不法残留者のストック
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/publications/press/13_00061.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 各年1月1日の不法残留者数は2024年79,113人、2025年74,863人、2026年68,488人。2026年のうち不法残留開始時の在留資格「短期滞在」は41,607人。
 
@@ -235,6 +255,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-011 — 飲食店の倒産
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.tdb.co.jp/report/industry/20260113-insyokuten2025/) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 飲食店の法的倒産は2023年768件、2024年894件、2025年900件、各年上半期は2024年435件、2025年458件、2026年473件との民間信用調査統計がある。
 
 **評価と証拠上の限界：** 改革前から増加した傾向であり、経営・管理改革の因果的影響と区別する必要がある。
@@ -242,6 +264,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-011。
 
 ### F-012 — 飲食業の経営・管理資格
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/applications/resources/10_00237.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 改正経営・管理制度には飲食店を業種として一律排除する規定は確認されず、事業実態、3,000万円以上の資本等、対象となる常勤職員その他の要件がある。
 
@@ -251,6 +275,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-013 — 帰化政策と永住の整合
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://laws.e-gov.go.jp/law/325AC0000000147) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2026年1月の政府方針、3月の法務省説明、4月の国会審議では、永住制度との整合性を念頭に置いた帰化審査変更の理由が明示されている。
 
 **評価と証拠上の限界：** 帰化全体が容易になった又は特定の個人に妥当な量的条件であるとは示さない。
@@ -258,6 +284,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-013。
 
 ### F-014 — 帰化に関する審査の歴史
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://laws.e-gov.go.jp/api/2/law_data/325AC0000000147) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 居住や公的義務履行の確認強化が説明される一方、言語・社会統合に関する定性的確認は改正以前にも存在した。
 
@@ -267,6 +295,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-015 — 取締り事案の分布
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/publications/press/13_00011.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2025年の主要な手続事由の92.3％は不法残留、手続対象者中13,435人に不法就労事実があった。直前の在留資格による構成と取消し対象の集団構成は大きく異なる。
 
 **評価と証拠上の限界：** 取締り件数、取消件数、実際の出国、不法残留者のストックは相互に足し合わせられない。
@@ -274,6 +304,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-015。
 
 ### F-016 — 取締りの対象との結び付き
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/content/001459250.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 不法就労や在留資格の悪用と特定取締り、滞留した不法残留案件と発見・退去施策、事業実態への懸念と経営・管理審査の関係が公式文書に明示された。
 
@@ -283,6 +315,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-017 — 育成就労・特定技能の再編
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/policies/conference/03_00033.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2027年4月1日の育成就労制度では、人材育成・確保への目的変更、特定技能への接続、一定条件下での移動、費用の抑制、監督と地域・受入人数の管理を併せる。
 
 **評価と証拠上の限界：** 制度の説明は、実施後の労働者保護や需給改善を実証したものではない。
@@ -290,6 +324,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-017。
 
 ### F-018 — 分野別の受入見込み
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/content/001407012.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 受入枠は予想される需要から国内人材確保・生産性等を見込んだ残余を用いる。建設を含め分野ごとの仮定は異なり、観察された不足数そのものではない。
 
@@ -299,6 +335,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-019 — 介護の需要と人材
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/dl/r06_point.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2020～2025年に75歳以上の人口が14.36％増加。介護職員は2024年10月2,126,227人で前年より487人増。2025年度の介護関連有効求人倍率は3.98、事業所の65.8％が人員不足を回答した。
 
 **評価と証拠上の限界：** 職員数、常勤換算、在留資格別在庫、事業所アンケートは別の尺度である。
@@ -306,6 +344,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-019。
 
 ### F-020 — 介護の残余必要数
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/m26/dl/2607a.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 政府は2028年度に259,300人の不足を想定し、生産性対策47,100人相当、国内採用51,500人を差し引き、外国人による残余160,700人を想定した。
 
@@ -315,6 +355,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-021 — 農業・製造業の構造
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.maff.go.jp/j/tokei/sihyo/data/08.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 農業の基幹従事者の高齢化・減少と雇用労働の補完、製造業の長期的な若年層・総数の変化や最近の求人指標を別々に検証した。外国人就業の増加も定義別に確認した。
 
 **評価と証拠上の限界：** 産業横断で「外国人がいなければ崩壊」とする定量的結論にはつながらない。
@@ -322,6 +364,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-021。
 
 ### F-022 — 対象産業の受入モデル
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.mhlw.go.jp/stf/houdou/newpage_00229.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2028年度モデルは介護160,700人、農業99,600人、工業製品製造業319,200人を残余必要数として算定した。農業は総不足389,000人から生産性・集約化209,400人、国内確保80,000人を控除した。
 
@@ -331,6 +375,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-023 — 入管手数料の負担
 
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/01_00644.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **確認された事実・資料：** 2026年10月の在留変更・更新手数料は期間と経路により異なる。永住許可は200,000円で一定の条件を満たす場合20,000円へ軽減。帰化の政府申請手数料はゼロ。費用・電子化・管理支援財源の説明がある。
 
 **評価と証拠上の限界：** 上限と実際の料金を混同しない。抑止効果や医療・福祉負担との直接関係は立証されていない。
@@ -338,6 +384,8 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 **根拠：** [一次資料参照先](SOURCES.md)および原研究のF-023。
 
 ### F-024 — JESTAの対象と施行
+
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/01_00643.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2026年法律第32号で法制化。主に査証免除短期滞在者と指定された一部の上陸・通過類型を対象とし、2028年度導入目標、遅くとも2029年3月31日までの施行予定。基準日時点では未運用。
 
