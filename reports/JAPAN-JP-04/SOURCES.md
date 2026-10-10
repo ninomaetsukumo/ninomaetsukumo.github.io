@@ -124,3 +124,14 @@
 - [8](https://www.moj.go.jp/isa/publications/press/13_00151.html) https://www.moj.go.jp/isa/publications/press/13_00151.html
 
 **Methodological note:** The report uses F-001–F-024 and S-001–S-007 as internal analytical identifiers. This public index provides traceable official source entry points, not a reproduction of nonpublic research files or an independent verification certificate.
+
+
+## BUSINESS-MANAGER — added during final claim audit
+- [ISA official Business Manager criteria](https://www.moj.go.jp/isa/content/001448070.pdf) — 2025 revised requirements; see F-002 and F-012
+- [ISA official procedural explanation](https://www.moj.go.jp/isa/applications/resources/10_00237.html) — scope and requirements
+- [e-Gov public-comment response](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000300768) — recorded explanation and limitations of comparative rationale
+
+## ADDITIONAL FEE CLARIFICATIONS — added during final claim audit
+- [ISA effective-date / application transition notice](https://www.moj.go.jp/isa/01_00644.html) — 1 October 2026 application reception boundary
+- [ISA fee policy and statutory-ceiling Q&A](https://www.moj.go.jp/isa/applications/faq/01_00650.html) — purpose of fees; reductions distinguished from fee ceilings
+- [ISA reductions, exemptions and online limitations](https://www.moj.go.jp/isa/10_00273.html) — reduced amounts and claim procedure
