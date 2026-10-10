@@ -154,6 +154,8 @@ The sections below restore the substantive findings and important quantitative c
 
 ### F-001 — Food-service recruitment pressure / 外食の人材確保
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.maff.go.jp/j/shokusan/gaishoku_shokubunka/attach/pdf/index-590.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Annual 2023/2024/2025 cooks jobs/applicant ratios were 2.90/2.79/2.47; broad customer-service/serving 3.27/2.94/2.59; all occupations 1.19/1.14/1.12. August 2026:2.21/2.31/1.06. These are raw Hello Work **常用 including part-time**, occupation-based across industries. June 2025 cook/food-serving scheduled wages were 77.5–81.3% of same-sex general-worker averages (**DERIVED / INFERRED** comparison, part-timers excluded). Combined accommodation/food entry/separation rates 27.8%/23.7%, versus 14.7%/13.7% all industries. MAFF reports about 273,000 foreign employees in food industries 76+77 in October 2025; restaurant-only MHLW count 268,769. Combined accommodation/food notifications rose 233,911→273,333→319,999 in 2023–25.
 
 **Assessment.** High relative job ratios, comparatively low occupational pay and high turnover coexist with substantial, growing foreign-worker presence. National food-service dependence remains unproven.
@@ -161,6 +163,8 @@ The sections below restore the substantive findings and important quantitative c
 **Evidence boundary.** No matched current customer-facing employee/FTE denominator or substitution counterfactual was recovered. The earlier~7.5% estimate mixes notified employees and household-survey employed persons and includes accommodation. MAFF food-employer counts include manufacturing-department interns; exclude those roles from customer-facing interpretation. Students, SSW, PR and BM are not interchangeable. No inferred cause for declining job ratios, labour shortage or foreign growth.
 
 ### F-002 — Business Manager capital benchmark / 経営・管理の資本金基準
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/content/001448070.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** CURRENT-EVIDENCE FINDING, research branch only. This is not a proportionality verdict and does not establish what unpublished internal analysis may exist.
 
@@ -189,6 +193,8 @@ SOURCE
 
 ### F-003 — PR arrears and denominator / 永住と未納資料
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.shugiin.go.jp/internet/itdb_kaigiroku.nsf/html/kaigiroku/000421320240508017.htm) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** government reports 235 child-application cases with arrears by PR supporters in a selected 1,825-disposition group, after close review of 556 nonpermissions. Reasons/intent generally were not investigated; duration was not aggregated. Municipal interviews report post-permission noncompliance.
 
 **Assessment.** 235/1,825 = 12.88%, but neither that ratio nor the NHI collection ratio measures deliberate nonpayment among all PR holders. POPULATION-MATCH GAP: selected applications/supporters versus all holders; arrears versus intent; household money versus persons/status.
@@ -198,6 +204,8 @@ SOURCE
 **Source trace.** PR-D1/D2/D3, directly retrieved May 8/10/15, 2024 House committee records; PR-H1 MHLW departmental material p.47. See `research/PR-SOURCE-REGISTER-2026-10-04.md`. See the [public primary-source locator index](SOURCES.md).
 
 ### F-004 — PR admission versus revocation / 永住許可と取消し
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://laws.e-gov.go.jp/api/2/law_data/326CO0000000319_20270401_506AC0000000060) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** new PR-specific statutory grounds/status-change provisions take effect 2027-04-01. The statute provides notice, opinion hearing and evidence rights and requires another status except where continued residence is considered inappropriate. Recovered guidance distinguishes deliberate nonpayment from hardship, repayment arrangements and employer-remittance failures; some post-PR conduct before implementation can be considered. Approval guidance and BM-to-PR eligibility concern permission of a new application; BM renewal transition is separate.
 
@@ -209,6 +217,8 @@ SOURCE
 
 ### F-005 — Non-disclosed PR thresholds / 永住の非公表基準
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321729) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** government says it does not plan to publish specific income, projected-pension and compensating-asset amounts. It does not disclose the requested benchmark dataset/base year/formula in reply 34. Reply 38 describes a nationwide benchmark.
 
 **Assessment.** public average income alone cannot reconstruct the exact above-average, household-adjusted operational threshold. No exact JPY hurdle, wage ratio, exclusion share or pension shortfall is presented as an official requirement.
@@ -219,6 +229,8 @@ SOURCE
 
 ### F-006 — PR applications and decisions / 永住の申請・処分
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032216481&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** 2025 new applications 75,968; completed 70,062; approvals 39,865; refusals 28,218; other 1,979. Approvals rose from 36,766 in 2024. **DERIVED / INFERRED:** approval share of completed decisions fell from 65.76% to 56.90%.
 
 **Assessment.** rising approvals and a lower disposition approval share coexist because completed volume also rises. A decision-year ratio is not the eventual probability for that year's new applications.
@@ -227,6 +239,8 @@ SOURCE
 
 
 ### F-007 — National Pension comparison / 国民年金
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** MHLW reports 770,000 foreign Category 1 insured and 80,000 foreign 24-month non-payers at FY2024 end. Across all Category 1 insured, there were 13.68 million insured and 720,000 24-month non-payers.
 
@@ -239,6 +253,8 @@ SOURCE
 
 ### F-008 — Health insurance claims / 医療保険に関する主張
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Kamiya alleged that foreign residents can receive expensive treatment under public insurance and leave Japan with premiums in arrears, and advocated stronger payment safeguards. A primary source supporting the literal quotation 「払えないなら帰れ」 was **NOT FOUND**.
 
 **Assessment.** Payment-compliance concerns have evidential support in the selected municipal sample. The recovered aggregate statistics do **not** support a broad claim that foreign NHI enrollees disproportionately consume medical expenditure or high-cost benefits. Lower collection and lower aggregate utilisation can coexist and must not be collapsed into one claim.
@@ -249,6 +265,8 @@ SOURCE
 
 ### F-009 — Tourism demand and spending / 観光需要と消費
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.jnto.go.jp/news/_files/20260916_1615.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Jan–Aug 訪日外客数 was **24,008,405 (2024), 28,384,099 (2025), 27,626,300 (2026)**. Q2 inbound spending, all second-preliminary releases, was **¥2.1402tn, ¥2.5043tn, ¥2.5125tn**, respectively. Official spending per general visitor was **¥239,028, ¥236,716, ¥244,733**.
 
 **Assessment.** Arrivals rose **18.23%** in 2025, then fell **2.67%** in 2026, remaining **15.07% above 2024**. Q2 nominal spending rose **17.01%**, then **0.33%**, leaving it **17.40% above 2024**. General-visitor average spending rose **3.39%** in 2026. Demand remains economically substantial, with softer arrival volume and nearly flat total spending in the latest comparable period.
@@ -258,6 +276,8 @@ SOURCE
 **Source trace.** JNTO September 2026 monthly/historical visitor series; JTA Q2 2024, 2025 and 2026 second-preliminary spending reports. Exact URLs, definitions, arithmetic and source hashes: `research/TOURISM-COMPLETION-2026-10-05.md`. See the [public primary-source locator index](SOURCES.md).
 
 ### F-010 — Overstay trends and status / 不法残留の傾向
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/publications/press/13_00061.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** Jan 1 administrative overstayer stock was **79,113 (2024), 74,863 (2025), 68,488 (2026)**. In 2026, status held when overstay began was Temporary Visitor **41,607**, Technical Intern **9,323**, Designated Activities **7,306**, Student **2,173**, Japanese-national spouse/child **1,724**, and Other **6,355**. Newly identified since Jan 1 2025 and still present on Jan 1 2026: **9,748**, including **3,737 Temporary Visitors**. A separate calendar-2025 occurrence analysis estimates **about 13,000**, including cases resolved within the year; it is not the same measure.
 
@@ -271,6 +291,8 @@ SOURCE
 
 ### F-011 — Restaurant bankruptcies / 飲食店倒産
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.tdb.co.jp/report/industry/20260113-insyokuten2025/) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** TDB restaurant legal bankruptcies:768(2023),894(2024),900(2025); Jan–Jun 435(2024),458(2025),473(2026). H1 increases+5.29% before reform and+3.28% after are **DERIVED / INFERRED**. Annual 2025 straddles 16 Oct 2025. JF sampled nominal sales grew+7.3% in 2025 and+4.9% August 2026 YoY. Government new-permit/ceased-facility figures are administrative counts contaminated by transition between food-permit regimes, not actual enterprise births/deaths.
 
 **Assessment.** **NO ESTABLISHED LINK** between BM tightening and the national insolvency/closure trend. The increase began earlier. **POTENTIAL TRIGGER POINT** exists for affected individual BM restaurants: an original broadcaster interview records an owner's funding difficulty and possible future closure (**ATTRIBUTED**). Diet advocacy is **POLITICAL USE**, not a closure count.
@@ -280,6 +302,8 @@ SOURCE
 **Source trace.** **SOURCE:** TDB's primary 2023–25 annual and 2024–26 H1 restaurant reports (private credit-research statistics); JF member sales/store survey; e-Stat food-permit tables; TV Asahi original 2026-04-09 owner interview and relevant Diet 2026-04-14 speeches. Completion note FS-07–11/14/18/21–22. See the [public primary-source locator index](SOURCES.md).
 
 ### F-012 — Restaurant BM eligibility / 飲食業と経営・管理
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/applications/resources/10_00237.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** No restaurant industry exclusion appears in the retained revised BM framework. It requires genuine management, corporate paid capital/investment≥¥30m and≥1 qualifying full-time employee, plus language, qualification/experience, expert-confirmed plan, premises/licence and compliance evidence. Existing-holder renewal transition differs from the explicit post-effective-date requirement to meet revised BM criteria for BM/BM-based specified HSP→PR. MAFF's 2024 capital-known food companies are about 80% below¥10m; JFC's 464 small corporate restaurant borrowers show median operating margin−0.4%, while 166 profitable/positive-equity borrowers average+4.3%.
 
@@ -291,6 +315,8 @@ SOURCE
 
 ### F-013 — Naturalisation consistency / 帰化と永住の整合
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://laws.e-gov.go.jp/law/325AC0000000147) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Government explicitly connects the April 1 residence/payment-review changes to the January package and consistency with PR. Its “easier” concern is framed as criticism/perception; the Nationality Act retains five years.
 
 **Assessment.** A **DIRECT TRIGGER** is established at policy decision level. Five-versus-ten residence durations alone do not measure overall application difficulty across distinct routes, exceptions and conditions.
@@ -301,6 +327,8 @@ SOURCE
 
 ### F-014 — Naturalisation standards / 帰化審査の根拠
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://laws.e-gov.go.jp/api/2/law_data/325AC0000000147) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Residence and payment lookbacks tightened; qualitative integration/language assessment already existed. Quantitative context reviewed concerns annual outcomes or different insurance/PR populations. Applicant-specific risks and validation of the selected lookbacks were not found.
 
 **Assessment.** The public record establishes screening changes and administrative coherence, not quantified problem-to-measure fit or a separately new April Japanese examination. Broader compliance statistics are **POTENTIAL TRIGGER POINT / context only** without an identified causal link to these datasets. May 28 application-volume advocacy is **POLITICAL USE**; generic foreign-crime/medical-use narratives have **NO ESTABLISHED LINK** to the measures in reviewed evidence.
@@ -308,6 +336,8 @@ SOURCE
 **Evidence boundary.** Internal studies, operating exceptions and future cohort outcomes may refine or change empirical conclusions. No timing-only causation, matched-cohort approval rate, universal JLPT/salary/savings threshold or national Naturalisation abuse rate asserted.
 
 ### F-015 — Enforcement distribution / 取締統計
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/publications/press/13_00011.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** In 2025 overstay was 92.3% of principal grounds; 13,435 procedure subjects had illegal-work facts. Last-status Temporary Visitor/Technical Intern/Designated Activities were 77.4% of procedure subjects; interns/students were 91.0% of revocations. Stock, procedures, illegal-work counts and combined actual departures declined in their latest annual comparisons; revocations and escorted removals rose. January–July 2026 actual departures increased 7.2% versus the same 2025 window.
 
@@ -319,6 +349,8 @@ SOURCE
 
 ### F-016 — Enforcement rationale / 取締政策の根拠
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/content/001459250.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Official records expressly link illegal work/status abuse to targeted enforcement, remaining overstay/capacity to detection/removal measures, and BM business-substance concerns to review. PR public obligations and Naturalisation/PR consistency are separate documented drivers. No reviewed record links aggregate enforcement/revocation trends to those broader PR/Naturalisation measures.
 
 **Assessment.** Documentary fit is strongest where the regulated subject matches the cited problem; aggregate intern/student/overstay cases cannot supply missing quantitative justification for unrelated populations. Broad controls require their own rationale/evidence.
@@ -327,6 +359,8 @@ SOURCE
 
 
 ### F-017 — Training and SSW pathway / 育成就労・特定技能
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/policies/conference/03_00033.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** Explicit workforce development/retention replaces Technical Intern's international skills-transfer purpose from1April2027; SSW alignment, conditional mobility, fee limits, employer/supervision requirements and numerical/regional controls respond to documented government concerns.
 
@@ -338,6 +372,8 @@ SOURCE
 
 ### F-018 — Intake forecast model / 受入枠の推計
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/content/001407012.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Field policies combine vacancy/workforce evidence with FY2028 demand and productivity/recruitment forecasts, allocating residuals to separate SSW(i)/育成 ceilings. Construction presently settled national conditions contrast with projected decline. Inspections and fees document selected populations, not universal prevalence.
 
 **Assessment.** A conditional labour-need basis is established; exact quotas, waiting periods, regional fractions and fee threshold are not independently validated by the reviewed quantities.
@@ -346,6 +382,8 @@ SOURCE
 
 
 ### F-019 — Care sector capacity / 介護分野
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/dl/r06_point.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** 75+ population increased14.36% during2020–25; July certifications rose1.87% in2026. Care-worker stock was2126227 inOct2024, only487 above2023; FY2025care-related job ratio3.98 and65.8% respondent establishment insufficiency indicate continuing recruitment difficulty. Dec2025SSWcare67871 and介護15891 grew53.0%/30.0% YoY; survey foreign-route participation increased to18.6%, with substantial service-type differences.
 
@@ -357,6 +395,8 @@ SOURCE
 
 ### F-020 — Care residual forecast / 介護の必要数
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/m26/dl/2607a.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** The official FY2028 model deducts47100 productivity equivalents and51500 additional domestic recruits from259300 projected shortage, leaving **160700 residual foreign-worker requirement**. Domestic responses include wages, training/re-entry, recruitment, technology and retention; evidence shows some pay/retention improvements. Separate SSW(i)126900/育成33800 policy allocations correspond to the residual.
 
 **Assessment.** The official labour-need rationale explicitly accounts for domestic measures before foreign intake. This supports a conditional problem–measure link, not proof all domestic alternatives are exhausted.
@@ -364,6 +404,8 @@ SOURCE
 **Evidence boundary.** Forecast quantities/assumptions and future domestic gains are not observed vacancies or achieved staffing; ceilings are not annual entrants. No independently validated exact residual, inevitable foreign need, optimality or national structural-dependence verdict.
 
 ### F-021 — Agriculture and manufacturing / 農業・製造業
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.maff.go.jp/j/tokei/sihyo/data/08.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** Care demand linked to75+growth increases while staffing expansion stalls; agriculture's core workforce is shrinking and very old while hired employment is a counterweight; manufacturing shows long-run total/younger decline and persistent recent shortage indicators. Foreign employment or separately measured foreign routes increase in all three sectors.
 
@@ -375,6 +417,8 @@ SOURCE
 
 ### F-022 — Sector intake counterfactual / 分野別残余需要
 
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.mhlw.go.jp/stf/houdou/newpage_00229.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+
 **Documented facts and measures.** Government models deduct productivity/domestic recruitment from projected shortages and allocate FY2028 residuals160,700Care/99,600Agriculture/319,200industrial-product manufacturing to separate SSW(i)/育成 ceilings. Domestic measures are documented; offsets are assumed future contributions.
 
 **Assessment.** Conditional residual-demand justification is established. It is distinct from independently proving exact forecasts, exhausted domestic alternatives or nationwide structural dependence.
@@ -383,6 +427,8 @@ SOURCE
 
 
 ### F-023 — Immigration fee economics / 手数料と財源
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/01_00644.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** October2026 change/extension tariffs vary by granted period/channel; PR permission is ¥200,000 with qualifying ¥20,000 reduction; naturalisation has no government fee. Government expressly links fee revisions to costs, digital efficiency and wider immigration administration/support financing.
 
@@ -393,6 +439,8 @@ SOURCE
 **Source trace.** FEE-01–06/10–12 in [Fees appendix](research/FEES-COMPLETION-2026-10-10.md): ISA fee schedules/FAQ, current law/order, MOFA notice and Diet cost/revenue exchanges. See the [public primary-source locator index](SOURCES.md).
 
 ### F-024 — JESTA target and effects / JESTA
+
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/01_00643.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** ActNo.32 of2026 establishes pre-travel authorisation primarily for visa-exempt short-stay travellers plus specified landing/transit categories. FY2028 target / commencement no later than31March2029; not yet operational. Existing residents returning under valid re-entry/deemed-re-entry permission are generally outside ordinary authorisation.
 
