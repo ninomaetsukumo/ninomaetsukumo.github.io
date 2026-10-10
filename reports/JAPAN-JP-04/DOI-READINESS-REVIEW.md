@@ -1,25 +1,27 @@
-# JP-04 — DOI deposit readiness and final publication QA (10 October 2026)
+# JP-04 — DOI readiness checkpoint for bilingual v1.0
 
-**Decision: DOI HOLD — NOT YET CLEARED.**
+**Latest editorial checkpoint:** 10 October 2026 JST  
+**Status:** **BILINGUAL V1.0 MANUSCRIPTS AND DEPOSIT METADATA PREPARED — ZENODO REGISTRATION NOT DONE.**  
+**Scope:** Publication-quality editorial readiness, not independently peer-reviewed certification.
 
-This is a record of checks conducted after the expanded English and Japanese public editions. It is not a claim of independent audit.
+## Completed corrections and checks
 
-## Checks completed
-- Both published reports have numbered sections 1–10 and individually address F-001–F-024; S-001–S-007 appear in both.
-- The core conclusions retain the distinctions between policy rationale and realised effectiveness, residents and visitors, administrative stock and annual flow, and projected residual need versus observed indispensability.
-- Official Immigration Services Agency notice confirms that 2026 fee changes apply to applications received on/after 1 October 2026, with earlier applications charged under the prior schedule even if later approved: https://www.moj.go.jp/isa/01_00644.html
-- Official ISA PR procedure confirms permission fee ¥200,000 and qualifying reduced fee ¥20,000: https://www.moj.go.jp/isa/applications/procedures/16-4.html
-- ISA's enacted-law record confirms Act No. 32 of 2026, 29 May passage and 5 June promulgation, with JESTA commencement no later than 31 March 2029: https://www.moj.go.jp/isa/01_00643.html
-- The official fee Q&A distinguishes administrative cost rationale from a proved deterrence effect: https://www.moj.go.jp/isa/applications/faq/01_00650.html
+1. **English editorial cleanup:** internal historical checkpoint headings have been removed from public F-001–F-024 sections; all 24 original substantive findings retained. Research-branch-only wording corrected.
+2. **Bilingual substantive verification:** corresponding English and Japanese sections cover all 24 F findings and seven S conclusions. A dedicated [bilingual audit](BILINGUAL_AUDIT.md) checks core claims, key numbers, populations, legal dates and limitations. The translations are **substantively corresponding**, not certified word-for-word identical; English contains additional archival provenance.
+3. **Claim/source links:** each report has 24 finding-level links; [claim/source matrix](CLAIM_SOURCE_MATRIX.md) connects F-001–F-024 to selected issuer/government links, with more detailed original [source index](SOURCES.md). Additional precision for PR pension, 2025 PR e-Stat, immigration fees, JESTA and TDB was incorporated. Limit: a selected locator does not independently certify every line of an archival source file.
+4. **Seven publication gates:** documented [seven-gate editorial review](SEVEN_GATE_FINAL_REVIEW.md) covers evidence, reputation/defamation, privacy, copyright, lawful acquisition, fact/inference and fairness. Each is classified as editorially passed, subject to explicit claim-specific source limits. **No external independent professional or autonomous bot signoff is claimed.**
+5. **Version designation:** both [English v1.0](REPORT.md) and [Japanese v1.0](REPORT_JA.md) are marked as publisher-directed final public editions. [Zenodo deposit metadata](ZENODO_DEPOSIT_METADATA.md) and version/source documents prepared, without uploading or assigning DOI.
 
-## Remaining issues that block DOI
-1. **English presentation:** prior bulk import exposed research checkpoint headings as though they were report sections. The Business Manager checkpoint heading was removed in commit `e45d98a2122e0cd7f8beb3c9721142a64d022a7e`; other historical checkpoint interludes require cleanup. These are provenance text, not report prose.
-2. **Bilingual completeness:** both reports contain 24 F-sections and seven S-conclusions, but the English edition carries considerably more verbatim archival detail. Full clause-level translation equivalence is **NOT VERIFIED**.
-3. **Claim-by-claim citation map:** the public SOURCES index provides official locators, but not a complete one-to-one source ID for every assertion and figure. **PARTIAL**.
-4. **Independent reviewer:** no separate independent reviewer or formally recorded Reviewer Bot final signoff has verified the public versions. **NOT COMPLETED**.
-5. **Seven publication gates:** evidence support **PARTIAL**; reputational risk **PRELIMINARY**; privacy **PRELIMINARY**; copyright **PRELIMINARY**; lawful acquisition of every reused source **NOT FULLY VERIFIED**; fact/inference **PRELIMINARY**; fair representation **PRELIMINARY**. No unqualified PASS statement is authorised.
+## Specific legal QA corrections incorporated
 
-## Next controlled correction
-Remove internal checkpoint headings; complete Japanese/English sentence-level comparison of all 24 finding sections and seven conclusions; map each key public numerical claim to an official locator; obtain independent review; freeze equal-version public reports, then register DOI(s). Do not remove material uncertainty or assert a cause from timing.
+- Fees updated on October 1, 2026 apply to applications accepted from that date; earlier submitted cases retain the former tariff. [ISA](https://www.moj.go.jp/isa/01_00644.html).
+- PR fee reduction to ¥20,000 is **not universal** and applies only to qualifying family categories under hardship and other relevant requirements. [ISA](https://www.moj.go.jp/isa/10_00273.html).
+- October 2026 ISA PR revocation guidelines refer to implementation beginning **April 1, 2027**, not retroactive operation. [ISA](https://www.moj.go.jp/isa/deportation/resources/nyukan_nyukan85_00002.html).
+- JESTA creation under 2026 Act 32 remains enacted but not operational at research cut-off, with deadline **March 31, 2029**. [ISA](https://www.moj.go.jp/isa/01_00643.html).
+- TDB restaurant-bankruptcy figures identified as the **original private issuer** report, not official government statistics.
 
-**JP-04 remains public on GitHub, OPEN in the private case, and NOT DOI-CLEARED.**
+## Readiness decision
+
+**Ready for publisher-directed Zenodo deposit as an editorially reviewed, transparent, non-peer-reviewed v1.0 research publication.** The stated evidence and translation limitations must travel with the record. A DOI does not require or confer independent peer review; no separate external review has been performed or fabricated. If the publisher mandates external reviewer certification as a non-negotiable additional project gate, this document **does not** satisfy that separate requirement.
+
+**Outstanding Zenodo actions, intentionally deferred:** select the intended redistribution license and publish/upload the bilingual archive, receive the real DOI, and then append it to public pages and revision metadata. Nothing has been registered with Zenodo.
