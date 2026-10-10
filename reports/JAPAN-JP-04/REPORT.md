@@ -226,22 +226,6 @@ SOURCE
 **Evidence boundary.** mixed filing dates and routes, other dispositions and carryover. The series cannot measure October 2026 changes or isolate BM-to-PR outcomes. No causal interpretation or political ranking.
 
 
-## PR completion-attempt checkpoint (2026-10-04 JST)
-
-Earlier completion attempt recorded source-access blockers. **Superseded late 2026-10-04:** PR remains OPEN only for substantive gaps capable of changing a core finding. Provenance-only exact-original, byte-comparison, and superseded-council-file tasks are not closure blockers. Active targets are late-payment chronology/data, historical PR stock, PR cancellation history/grounds, and representative PR-specific intentional-nonpayment evidence if published.
-
-**F-003:** core conclusion unchanged. Verified stock counts do not provide a representative national intent numerator.
-
-**F-004:** qualification added: February indexed guidance already treated cured late payments negatively for admission. Indexed FAQ Q10 says later collection does not necessarily remove future cancellation exposure. Original final-text comparison remains OPEN; neither point equates admission refusal with cancellation. Old cancellation counts cannot test a ground not then in force.
-
-**F-005:** unchanged; express nondisclosure in original replies remains the evidence boundary.
-
-**F-006:** unchanged; disposition arithmetic reconciles. PR stocks are separate observations, not matched application cohorts or October-reform outcomes.
-
-These amendments remain research candid
-
-**Source trace.** annual e-Stat PR processing blocks PR-S2020–S2025, independent 2025 approval table PR-S2025A; `research/PR-DECISIONS-2020-2025.csv`. See the [public primary-source locator index](SOURCES.md).
-
 ### F-007 — National Pension comparison / 国民年金
 
 **Documented facts and measures.** MHLW reports 770,000 foreign Category 1 insured and 80,000 foreign 24-month non-payers at FY2024 end. Across all Category 1 insured, there were 13.68 million insured and 720,000 24-month non-payers.
@@ -252,12 +236,6 @@ These amendments remain research candid
 
 **Evidence boundary.** 24-month nonpayment is not deliberate nonpayment; foreign-wide pension data are not PR-holder data; the MHLW publication does not give nationality-by-nationality rates; and composition of the non-payer pool is different from propensity to become a non-payer. The selected 2023 PR-supporter arrears sample remains a separate population.
 
-
-## Permanent Residence module closure — 2026-10-05 JST
-
-**Status: CURRENT-EVIDENCE COMPLETE.** F-003 through F-007 are retained with their stated limitations. No further PR source hunting is required before moving to the next JP-04 module. Reopen only for materially new evidence, legal change or a source capable of altering a core finding.
-
-**Source trace.** MHLW FY2024 National Pension report and foreign-national appendix; Statistics Bureau 2025-03-01 population estimate. Full record: `research/PR-PENSION-NONPAYMENT-COMPARISON-2026-10-04.md`. See the [public primary-source locator index](SOURCES.md).
 
 ### F-008 — Health insurance claims / 医療保険に関する主張
 
@@ -329,12 +307,6 @@ These amendments remain research candid
 
 **Evidence boundary.** Internal studies, operating exceptions and future cohort outcomes may refine or change empirical conclusions. No timing-only causation, matched-cohort approval rate, universal JLPT/salary/savings threshold or national Naturalisation abuse rate asserted.
 
-## Naturalisation closure — 2026-10-08 JST
-
-**CURRENT-EVIDENCE COMPLETE for F-013/F-014.** Six passes documented and self-reviewed by the lead assistant, not independently approved by a reviewer/team. Residuals are non-blocking for the bounded documentary conclusions, with explicit reopening for material new evidence. Other modules and JP-04 overall status remain unchanged; JP-04 is OPEN. No publication, release, DOI, website update or main merge.
-
-**Source trace.** NAT-02/04 policy and change descriptions; NAT-05/06 bureau document guidance; NAT-07 prior integration record; NAT-09 annual statistics; existing F-003/F-008 compliance context. Full matrix and search boundary in [completion note](research/NATURALISATION-COMPLETION-2026-10-08.md). See the [public primary-source locator index](SOURCES.md).
-
 ### F-015 — Enforcement distribution / 取締統計
 
 **Documented facts and measures.** In 2025 overstay was 92.3% of principal grounds; 13,435 procedure subjects had illegal-work facts. Last-status Temporary Visitor/Technical Intern/Designated Activities were 77.4% of procedure subjects; interns/students were 91.0% of revocations. Stock, procedures, illegal-work counts and combined actual departures declined in their latest annual comparisons; revocations and escorted removals rose. January–July 2026 actual departures increased 7.2% versus the same 2025 window.
@@ -353,12 +325,6 @@ These amendments remain research candid
 
 **Evidence boundary.** Direct trigger labels record the government's decision rationale, not validated effectiveness or representative prevalence. No-link findings are bounded public-record searches, not proof of no internal analysis or a policy recommendation.
 
-
-## Enforcement closure — 2026-10-09 JST
-
-**CURRENT-EVIDENCE COMPLETE for bounded F-015/F-016.** Source IDs, separate administrative populations, calculations, trigger matrix, six method passes and residuals: [Enforcement completion](research/ENFORCEMENT-COMPLETION-2026-10-09.md). Self-reviewed by the lead assistant; no independent reviewer approval claimed. JP-04 remains OPEN. Other findings/modules unchanged; no publication or main merge.
-
-**Source trace.** ENF-07–14 and existing F-002–F-004/F-013. See the [public primary-source locator index](SOURCES.md).
 
 ### F-017 — Training and SSW pathway / 育成就労・特定技能
 
@@ -379,12 +345,6 @@ These amendments remain research candid
 **Evidence boundary.** Forecast uncertainty, mismatched units, survey selection, exact-threshold derivation NOT FOUND, and future outcomes UNTESTABLE. No economic inevitability, optimality, proportionality verdict or absence-of-internal-analysis claim.
 
 
-## 育成就労 / SSW closure — 2026-10-09 JST
-
-**CURRENT-EVIDENCE COMPLETE for F-017/F-018.** [Completion note](research/SSW-IKUSEI-COMPLETION-2026-10-09.md) gives primary URLs/locators, classifications, correction and residuals. Eight DIRECT TRIGGER links mean express policy rationale, not efficacy or precise threshold validation. Operational effectiveness UNTESTABLE until after1April2027. Self-reviewed; no independent reviewer/publication clearance. Other findings unchanged; JP-04 remains OPEN.
-
-**Source trace.** SSW-05–10/12. See the [public primary-source locator index](SOURCES.md).
-
 ### F-019 — Care sector capacity / 介護分野
 
 **Documented facts and measures.** 75+ population increased14.36% during2020–25; July certifications rose1.87% in2026. Care-worker stock was2126227 inOct2024, only487 above2023; FY2025care-related job ratio3.98 and65.8% respondent establishment insufficiency indicate continuing recruitment difficulty. Dec2025SSWcare67871 and介護15891 grew53.0%/30.0% YoY; survey foreign-route participation increased to18.6%, with substantial service-type differences.
@@ -402,11 +362,6 @@ These amendments remain research candid
 **Assessment.** The official labour-need rationale explicitly accounts for domestic measures before foreign intake. This supports a conditional problem–measure link, not proof all domestic alternatives are exhausted.
 
 **Evidence boundary.** Forecast quantities/assumptions and future domestic gains are not observed vacancies or achieved staffing; ceilings are not annual entrants. No independently validated exact residual, inevitable foreign need, optimality or national structural-dependence verdict.
-
-## Demographic and Care checkpoint closure — 2026-10-10 JST
-**Demographic baseline and Care — CURRENT-EVIDENCE COMPLETE** for the recorded baseline and bounded F-019/F-020. Remaining matched-share/counterfactual, census/scenario, access and future-outcome gaps are nonblocking limitations of these findings; material new evidence can reopen the affected claim. Self-reviewed, no independent reviewer/publication approval. Agriculture/Manufacturing NOT STARTED; chapter PARTIAL; JP-04 OPEN. F-001–F-018 and other completed modules preserved.
-
-**Source trace.** CARE-05/08/10/11; existing SSW-05/07. See the [public primary-source locator index](SOURCES.md).
 
 ### F-021 — Agriculture and manufacturing / 農業・製造業
 
@@ -427,11 +382,6 @@ These amendments remain research candid
 **Evidence boundary.** Forecast assumptions, field boundaries, hours/quality and regional differences remain material to stronger claims. Matched complete worker coverage and credible substitution/service-or-output-loss counterfactuals are unavailable in the retained evidence. Nationwide structural dependence is **UNTESTABLE** in all three sectors.
 
 
-## Selected-sector chapter closure — 2026-10-10 JST
-Demographics, Care, Agriculture, Manufacturing and the selected-sector dependence chapter are **CURRENT-EVIDENCE COMPLETE** for bounded F-019–F-022. F-001–F-020 preserved; Food Service retains its existing separate findings. Exact shares, counterfactuals and forecasts remain limitations, not positive dependence findings. JP-04 overall OPEN; other modules and publication status unchanged. Lead self-review only, no independent/publication approval. This block supersedes earlier selected-sector not-started/partial statuses only.
-
-**Source trace.** CARE-05/10/11;AGR-07/08/10;MAN-04/09;existing SSW-04/05/07. See the [public primary-source locator index](SOURCES.md).
-
 ### F-023 — Immigration fee economics / 手数料と財源
 
 **Documented facts and measures.** October2026 change/extension tariffs vary by granted period/channel; PR permission is ¥200,000 with qualifying ¥20,000 reduction; naturalisation has no government fee. Government expressly links fee revisions to costs, digital efficiency and wider immigration administration/support financing.
@@ -449,12 +399,6 @@ Demographics, Care, Agriculture, Manufacturing and the selected-sector dependenc
 **Assessment.** Advance screening, route-circumvention prevention, avoiding later removal burden and visitor/queue management have **DIRECT TRIGGER** documentary links. Universal resident-status tightening has **NO ESTABLISHED LINK**. Zero Plan anxiety framing is **POLITICAL USE** only in its documented presentation sense.
 
 **Evidence boundary.** Final fee and exact operational date **NOT FOUND**; effectiveness **UNTESTABLE**. Stock, entrant flow and landing-stage exclusions are different populations; later figures do not prove the original2025 trigger. Broader carrier reporting does not imply universal personal authorisation.
-
-## Fees/JESTA and research-phase closure — 2026-10-10 JST
-
-**Fees — CURRENT-EVIDENCE COMPLETE. JESTA — CURRENT-EVIDENCE COMPLETE. JP-04 research phase — CURRENT-EVIDENCE COMPLETE.** F-001–F-022 unchanged. Residual future/access/calibration/effectiveness gaps are limits, not ordinary research blockers for the bounded findings. JP-04 remains **OPEN**: final Economic/Cross-policy/Trigger synthesis and publication review pending, not begun. Lead self-review only; no publication clearance or external publication.
-
-**Source trace.** JESTA-01–07 in [JESTA appendix](research/JESTA-COMPLETION-2026-10-10.md): Act32 notices, legislative text/outline, Cabinet policy, Zero Plan and Diet records. See the [public primary-source locator index](SOURCES.md).
 
 ## 9. Comparative evidence audit and interpretive safeguards
 
