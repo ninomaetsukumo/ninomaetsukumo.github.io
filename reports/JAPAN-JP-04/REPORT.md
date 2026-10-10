@@ -229,7 +229,7 @@ SOURCE
 
 ### F-006 — PR applications and decisions / 永住の申請・処分
 
-**Primary-source locator (documentary starting point):** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032216481&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040478469&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** 2025 new applications 75,968; completed 70,062; approvals 39,865; refusals 28,218; other 1,979. Approvals rose from 36,766 in 2024. **DERIVED / INFERRED:** approval share of completed decisions fell from 65.76% to 56.90%.
 
@@ -240,7 +240,7 @@ SOURCE
 
 ### F-007 — National Pension comparison / 国民年金
 
-**Primary-source locator (documentary starting point):** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/k_r06.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** MHLW reports 770,000 foreign Category 1 insured and 80,000 foreign 24-month non-payers at FY2024 end. Across all Category 1 insured, there were 13.68 million insured and 720,000 24-month non-payers.
 
@@ -253,7 +253,7 @@ SOURCE
 
 ### F-008 — Health insurance claims / 医療保険に関する主張
 
-**Primary-source locator (documentary starting point):** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/syuh/s217070.htm) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** Kamiya alleged that foreign residents can receive expensive treatment under public insurance and leave Japan with premiums in arrears, and advocated stronger payment safeguards. A primary source supporting the literal quotation 「払えないなら帰れ」 was **NOT FOUND**.
 
@@ -303,7 +303,7 @@ SOURCE
 
 ### F-012 — Restaurant BM eligibility / 飲食業と経営・管理
 
-**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/applications/resources/10_00237.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/content/001448070.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** No restaurant industry exclusion appears in the retained revised BM framework. It requires genuine management, corporate paid capital/investment≥¥30m and≥1 qualifying full-time employee, plus language, qualification/experience, expert-confirmed plan, premises/licence and compliance evidence. Existing-holder renewal transition differs from the explicit post-effective-date requirement to meet revised BM criteria for BM/BM-based specified HSP→PR. MAFF's 2024 capital-known food companies are about 80% below¥10m; JFC's 464 small corporate restaurant borrowers show median operating margin−0.4%, while 166 profitable/positive-equity borrowers average+4.3%.
 
@@ -440,7 +440,7 @@ SOURCE
 
 ### F-024 — JESTA target and effects / JESTA
 
-**Primary-source locator (documentary starting point):** [Official primary material](https://www.moj.go.jp/isa/01_00643.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**Primary-source locator (documentary starting point):** [Official primary material](https://laws.e-gov.go.jp/law/508AC0000000032) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **Documented facts and measures.** ActNo.32 of2026 establishes pre-travel authorisation primarily for visa-exempt short-stay travellers plus specified landing/transit categories. FY2028 target / commencement no later than31March2029; not yet operational. Existing residents returning under valid re-entry/deemed-re-entry permission are generally outside ordinary authorisation.
 
