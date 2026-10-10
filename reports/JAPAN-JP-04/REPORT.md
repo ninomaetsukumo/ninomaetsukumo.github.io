@@ -160,17 +160,6 @@ The sections below restore the substantive findings and important quantitative c
 
 **Evidence boundary.** No matched current customer-facing employee/FTE denominator or substitution counterfactual was recovered. The earlier~7.5% estimate mixes notified employees and household-survey employed persons and includes accommodation. MAFF food-employer counts include manufacturing-department interns; exclude those roles from customer-facing interpretation. Students, SSW, PR and BM are not interchangeable. No inferred cause for declining job ratios, labour shortage or foreign growth.
 
-## Business Manager module status
-
-- **STATUS: CURRENT-EVIDENCE COMPLETE.**
-- The module remains **PARTIALLY TESTABLE** as an evidentiary classification because some underlying government data does not exist, is not published, or cannot yet exist.
-- Core rule, rationale, burden, safeguards, transition, public-comment record and international-comparison findings have been researched sufficiently for the current evidence horizon.
-- The remaining seven items are **evidence gaps, not unfinished core research**: 2026 monthly COE series; national non-genuine-case count; BM-specific survival/profitability data; exact quantitative derivation of ¥30m; PR-paragraph version history; precise compliance costs; and post-2028 outcomes.
-- POPULATION-MATCH GAP remains recorded in CASE.md. This is not a finding of overbreadth or proportionality.
-- Full record: EVIDENCE.md sections J–K, OPEN_QUESTIONS.md residual BM gaps, handoff/BM-CLOSURE-HANDOFF-2026-10-03.md, and research/BM-INTERNATIONAL-COMPARISON.md.
-
-**Source trace.** **SOURCE:** MHLW/e-Stat Table 21-7 and August 2026 reference statistics; retained June 2025 wage and 2025 employment-trends tables; MHLW October 2025 notifications; MAFF current food-service compilation pp 4/7–9; ISA June 2026 food-service SSW rows. Exact URLs/definitions: `research/FOOD-SERVICE-COMPLETION-2026-10-05.md`, FS-01–06/19. See the [public primary-source locator index](SOURCES.md).
-
 ### F-002 — Business Manager capital benchmark / 経営・管理の資本金基準
 
 **Documented facts and measures.** CURRENT-EVIDENCE FINDING, research branch only. This is not a proportionality verdict and does not establish what unpublished internal analysis may exist.
