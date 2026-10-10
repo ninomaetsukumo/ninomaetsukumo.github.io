@@ -205,7 +205,7 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-006 — 永住処分件数の比較
 
-**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032216481&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040478469&fileKind=4) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2025年の新規申請は75,968件、処分70,062件、許可39,865件、不許可28,218件、その他1,979件。許可件数は2024年の36,766件を上回る一方、処分中の許可割合は65.76％から56.90％へ低下した。
 
@@ -215,7 +215,7 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-007 — 国民年金の未納比較
 
-**一次資料参照先（資料確認の入口）：** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.mhlw.go.jp/topics/bukyoku/nenkin/nenkin/toukei/dl/k_r06.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2024年度末、外国人の国民年金第1号被保険者77万人、24か月未納8万人。全体では第1号被保険者1,368万人、24か月未納72万人と記録される。
 
@@ -225,7 +225,7 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-008 — 医療保険・年金に関する主張
 
-**一次資料参照先（資料確認の入口）：** [Official primary material](https://public-comment.e-gov.go.jp/pcm/download?seqNo=0000321726) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/217/syuh/s217070.htm) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 公的保険を利用して高額医療を受け、保険料を残して出国するとの政治的主張は確認した一方、厳密な引用文言「払えないなら帰れ」の本人一次発言は確認できなかった。2025年度の年金24か月未納者計67万人のうち外国人7万人と記録された。
 
@@ -265,7 +265,7 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-012 — 飲食業の経営・管理資格
 
-**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/applications/resources/10_00237.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/content/001448070.pdf) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 改正経営・管理制度には飲食店を業種として一律排除する規定は確認されず、事業実態、3,000万円以上の資本等、対象となる常勤職員その他の要件がある。
 
@@ -385,7 +385,7 @@ JESTAは**2026年法律第32号**によって制度化された、主として�
 
 ### F-024 — JESTAの対象と施行
 
-**一次資料参照先（資料確認の入口）：** [Official primary material](https://www.moj.go.jp/isa/01_00643.html) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
+**一次資料参照先（資料確認の入口）：** [Official primary material](https://laws.e-gov.go.jp/law/508AC0000000032) · [Finding-specific source audit and limits](CLAIM_SOURCE_MATRIX.md)
 
 **確認された事実・資料：** 2026年法律第32号で法制化。主に査証免除短期滞在者と指定された一部の上陸・通過類型を対象とし、2028年度導入目標、遅くとも2029年3月31日までの施行予定。基準日時点では未運用。
 
