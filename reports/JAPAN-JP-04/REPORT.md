@@ -144,3 +144,343 @@ The report is based on the archived F-001–F-024 and S-001–S-007 analysis. Th
 ### Publication and review notice
 
 This edition has been publicly released at the publisher's direction. DOI registration is deferred. It is not an independent audit, and some primary-source originals remained access-limited as recorded in the case research. Method and factual limitations remain part of the report. See [public primary-source locators](SOURCES.md). The JP-04 research case may remain OPEN for later corrections and archival closure.
+
+
+---
+
+## 8. Detailed documentary findings — F-001 to F-024
+
+The sections below restore the substantive findings and important quantitative context that the earlier executive version compressed. The figures retain their original date, sector and population boundaries. References to research appendices identify the archival provenance; public government-source entry points are linked in [SOURCES.md](SOURCES.md). A listed source is not a blanket claim that every inaccessible original has been re-downloaded.
+
+### F-001 — Food-service recruitment pressure / 外食の人材確保
+
+**Documented facts and measures.** Annual 2023/2024/2025 cooks jobs/applicant ratios were 2.90/2.79/2.47; broad customer-service/serving 3.27/2.94/2.59; all occupations 1.19/1.14/1.12. August 2026:2.21/2.31/1.06. These are raw Hello Work **常用 including part-time**, occupation-based across industries. June 2025 cook/food-serving scheduled wages were 77.5–81.3% of same-sex general-worker averages (**DERIVED / INFERRED** comparison, part-timers excluded). Combined accommodation/food entry/separation rates 27.8%/23.7%, versus 14.7%/13.7% all industries. MAFF reports about 273,000 foreign employees in food industries 76+77 in October 2025; restaurant-only MHLW count 268,769. Combined accommodation/food notifications rose 233,911→273,333→319,999 in 2023–25.
+
+**Assessment.** High relative job ratios, comparatively low occupational pay and high turnover coexist with substantial, growing foreign-worker presence. National food-service dependence remains unproven.
+
+**Evidence boundary.** No matched current customer-facing employee/FTE denominator or substitution counterfactual was recovered. The earlier~7.5% estimate mixes notified employees and household-survey employed persons and includes accommodation. MAFF food-employer counts include manufacturing-department interns; exclude those roles from customer-facing interpretation. Students, SSW, PR and BM are not interchangeable. No inferred cause for declining job ratios, labour shortage or foreign growth.
+
+## Business Manager module status
+
+- **STATUS: CURRENT-EVIDENCE COMPLETE.**
+- The module remains **PARTIALLY TESTABLE** as an evidentiary classification because some underlying government data does not exist, is not published, or cannot yet exist.
+- Core rule, rationale, burden, safeguards, transition, public-comment record and international-comparison findings have been researched sufficiently for the current evidence horizon.
+- The remaining seven items are **evidence gaps, not unfinished core research**: 2026 monthly COE series; national non-genuine-case count; BM-specific survival/profitability data; exact quantitative derivation of ¥30m; PR-paragraph version history; precise compliance costs; and post-2028 outcomes.
+- POPULATION-MATCH GAP remains recorded in CASE.md. This is not a finding of overbreadth or proportionality.
+- Full record: EVIDENCE.md sections J–K, OPEN_QUESTIONS.md residual BM gaps, handoff/BM-CLOSURE-HANDOFF-2026-10-03.md, and research/BM-INTERNATIONAL-COMPARISON.md.
+
+**Source trace.** **SOURCE:** MHLW/e-Stat Table 21-7 and August 2026 reference statistics; retained June 2025 wage and 2025 employment-trends tables; MHLW October 2025 notifications; MAFF current food-service compilation pp 4/7–9; ISA June 2026 food-service SSW rows. Exact URLs/definitions: `research/FOOD-SERVICE-COMPLETION-2026-10-05.md`, FS-01–06/19. See the [public primary-source locator index](SOURCES.md).
+
+### F-002 — Business Manager capital benchmark / 経営・管理の資本金基準
+
+**Documented facts and measures.** CURRENT-EVIDENCE FINDING, research branch only. This is not a proportionality verdict and does not establish what unpublished internal analysis may exist.
+
+ SOURCE → FACT → ANALYSIS → LIMITATION
+
+SOURCE
+- e-Gov public-comment reply PDF, seqNo `0000300768` (primary source, obtained and reviewed 2026-10-03).
+- ISA / Ministry of Justice Business Manager rule and guidance materials.
+- Official immigration / labour / tax sources for comparator routes and statutory wage data.
+- Commercial-rent figures use government data where a usable level is published; otherwise current professional market benchmarks are labelled as private-market context.
+- FX normalization uses the frozen research snapshot from 2026-10-03 c. 20:44 JST; JPY is the common display currency. Nominal FX is not PPP.
+
+ FACT — CONFIRMED
+1. The Japanese government expressly stated that foreign-country comparisons were part of the review of the Business Manager criteria.
+2. In the e-Gov public-comment reply, the gov
+
+**Assessment.** See the retained finding and related synthesis for the bounded interpretation.
+
+**Evidence boundary.** Causal effects and generalisation beyond the specified population are not established by this finding.
+
+**Source trace.** - e-Gov public-comment reply PDF, seqNo `0000300768` (primary source, obtained and reviewed 2026-10-03).
+- ISA / Ministry of Justice Business Manager rule and guidance materials.
+- Official immigration / labour / tax sources for comparator routes and statutory wage data.
+- Commercial-rent figures use government data where a usable level is published; otherwise current professional market benchmarks are labelled as private-market context.
+- FX normalization uses the frozen research snapshot from **2026-10-03 c. 20:44 JST**; JPY is the common display curre See the [public primary-source locator index](SOURCES.md).
+
+### F-003 — PR arrears and denominator / 永住と未納資料
+
+**Documented facts and measures.** government reports 235 child-application cases with arrears by PR supporters in a selected 1,825-disposition group, after close review of 556 nonpermissions. Reasons/intent generally were not investigated; duration was not aggregated. Municipal interviews report post-permission noncompliance.
+
+**Assessment.** 235/1,825 = 12.88%, but neither that ratio nor the NHI collection ratio measures deliberate nonpayment among all PR holders. POPULATION-MATCH GAP: selected applications/supporters versus all holders; arrears versus intent; household money versus persons/status.
+
+**Evidence boundary.** the government does have documented examples and broader collection evidence, so “no evidence” is too strong. The same MHLW slide reports 1.39% foreign share of domestic NHI medical costs and younger age structure. None of these sources supplies a matched PR-specific net fiscal balance or representative intentional-nonpayment rate. No inference is made about undisclosed internal analysis.
+
+**Source trace.** PR-D1/D2/D3, directly retrieved May 8/10/15, 2024 House committee records; PR-H1 MHLW departmental material p.47. See `research/PR-SOURCE-REGISTER-2026-10-04.md`. See the [public primary-source locator index](SOURCES.md).
+
+### F-004 — PR admission versus revocation / 永住許可と取消し
+
+**Documented facts and measures.** new PR-specific statutory grounds/status-change provisions take effect 2027-04-01. The statute provides notice, opinion hearing and evidence rights and requires another status except where continued residence is considered inappropriate. Recovered guidance distinguishes deliberate nonpayment from hardship, repayment arrangements and employer-remittance failures; some post-PR conduct before implementation can be considered. Approval guidance and BM-to-PR eligibility concern permission of a new application; BM renewal transition is separate.
+
+**Assessment.** an admission negative factor is not an automatic PR-holder cancellation ground; applicability of a cancellation ground and choice of cancellation/status change are distinct stages. No blanket “late payment causes deportation” or “all existing PR holders must meet the new admission tests” finding is supported.
+
+**Evidence boundary.** e-Gov confirms adoption and no opinion-driven modification, not byte identity of the drafts and final MOJ pages. Written safeguards do not measure future enforcement. Specific alternative status/term and individual outcomes are not guaranteed by these summaries.
+
+**Source trace.** current/future e-Gov Immigration Act versions PR-L1/L2; recovered 2026 approval/revocation drafts and replies PR-A1/A2/R1/R2; adoption metadata PR-A0/R0; retained checked ISA BM document PR-BM1. See the [public primary-source locator index](SOURCES.md).
+
+### F-005 — Non-disclosed PR thresholds / 永住の非公表基準
+
+**Documented facts and measures.** government says it does not plan to publish specific income, projected-pension and compensating-asset amounts. It does not disclose the requested benchmark dataset/base year/formula in reply 34. Reply 38 describes a nationwide benchmark.
+
+**Assessment.** public average income alone cannot reconstruct the exact above-average, household-adjusted operational threshold. No exact JPY hurdle, wage ratio, exclusion share or pension shortfall is presented as an official requirement.
+
+**Evidence boundary.** conceptual components and stated self-support rationale are published. Nondisclosure is not proof of no internal model or a measured net economic effect. Final operational testing methods and post-implementation outcomes remain future evidence.
+
+**Source trace.** approval-guideline reply PR-A2, especially 17/34/38; draft PR-A1 pp.3–4. See the [public primary-source locator index](SOURCES.md).
+
+### F-006 — PR applications and decisions / 永住の申請・処分
+
+**Documented facts and measures.** 2025 new applications 75,968; completed 70,062; approvals 39,865; refusals 28,218; other 1,979. Approvals rose from 36,766 in 2024. **DERIVED / INFERRED:** approval share of completed decisions fell from 65.76% to 56.90%.
+
+**Assessment.** rising approvals and a lower disposition approval share coexist because completed volume also rises. A decision-year ratio is not the eventual probability for that year's new applications.
+
+**Evidence boundary.** mixed filing dates and routes, other dispositions and carryover. The series cannot measure October 2026 changes or isolate BM-to-PR outcomes. No causal interpretation or political ranking.
+
+
+## PR completion-attempt checkpoint (2026-10-04 JST)
+
+Earlier completion attempt recorded source-access blockers. **Superseded late 2026-10-04:** PR remains OPEN only for substantive gaps capable of changing a core finding. Provenance-only exact-original, byte-comparison, and superseded-council-file tasks are not closure blockers. Active targets are late-payment chronology/data, historical PR stock, PR cancellation history/grounds, and representative PR-specific intentional-nonpayment evidence if published.
+
+**F-003:** core conclusion unchanged. Verified stock counts do not provide a representative national intent numerator.
+
+**F-004:** qualification added: February indexed guidance already treated cured late payments negatively for admission. Indexed FAQ Q10 says later collection does not necessarily remove future cancellation exposure. Original final-text comparison remains OPEN; neither point equates admission refusal with cancellation. Old cancellation counts cannot test a ground not then in force.
+
+**F-005:** unchanged; express nondisclosure in original replies remains the evidence boundary.
+
+**F-006:** unchanged; disposition arithmetic reconciles. PR stocks are separate observations, not matched application cohorts or October-reform outcomes.
+
+These amendments remain research candid
+
+**Source trace.** annual e-Stat PR processing blocks PR-S2020–S2025, independent 2025 approval table PR-S2025A; `research/PR-DECISIONS-2020-2025.csv`. See the [public primary-source locator index](SOURCES.md).
+
+### F-007 — National Pension comparison / 国民年金
+
+**Documented facts and measures.** MHLW reports 770,000 foreign Category 1 insured and 80,000 foreign 24-month non-payers at FY2024 end. Across all Category 1 insured, there were 13.68 million insured and 720,000 24-month non-payers.
+
+**Assessment.** subtracting the foreign count from the national total leaves about **640,000 non-foreign 24-month non-payers**. Using the total 720,000 non-payers as the common denominator, foreign nationals account for **11.1%** and the non-foreign remainder for **88.9%** of the documented 24-month non-payer population.
+
+**POTENTIAL TRIGGER POINT / POPULATION CONTEXT:** this composition is relevant when testing whether the population demonstrated by the evidence corresponds to the population singled out by later policy. It does **not** establish causation and it does not show which group has the higher within-group nonpayment rate.
+
+**Evidence boundary.** 24-month nonpayment is not deliberate nonpayment; foreign-wide pension data are not PR-holder data; the MHLW publication does not give nationality-by-nationality rates; and composition of the non-payer pool is different from propensity to become a non-payer. The selected 2023 PR-supporter arrears sample remains a separate population.
+
+
+## Permanent Residence module closure — 2026-10-05 JST
+
+**Status: CURRENT-EVIDENCE COMPLETE.** F-003 through F-007 are retained with their stated limitations. No further PR source hunting is required before moving to the next JP-04 module. Reopen only for materially new evidence, legal change or a source capable of altering a core finding.
+
+**Source trace.** MHLW FY2024 National Pension report and foreign-national appendix; Statistics Bureau 2025-03-01 population estimate. Full record: `research/PR-PENSION-NONPAYMENT-COMPARISON-2026-10-04.md`. See the [public primary-source locator index](SOURCES.md).
+
+### F-008 — Health insurance claims / 医療保険に関する主張
+
+**Documented facts and measures.** Kamiya alleged that foreign residents can receive expensive treatment under public insurance and leave Japan with premiums in arrears, and advocated stronger payment safeguards. A primary source supporting the literal quotation 「払えないなら帰れ」 was **NOT FOUND**.
+
+**Assessment.** Payment-compliance concerns have evidential support in the selected municipal sample. The recovered aggregate statistics do **not** support a broad claim that foreign NHI enrollees disproportionately consume medical expenditure or high-cost benefits. Lower collection and lower aggregate utilisation can coexist and must not be collapsed into one claim.
+
+**Evidence boundary.** The NHI collection sample is not established as nationally representative; household-head nationality is not person nationality; a Japanese-only national collection rate was NOT PUBLISHED in the checked material; age-adjusted utilisation was NOT FOUND; and aggregate utilisation cannot exclude individual abuse. The government did not have the requested Business Manager abuse-case count, so the national prevalence of Kamiya's treatment-plus-unpaid-premium allegation remains unverified. Pension composition does not measure within-group propensity.
+
+**Source trace.** MHLW NHI collection/utilisation materials; MHLW FY2025 National Pension statistics; Kamiya Diet question 217-70 and government replies 217-70/217-237. Full record: `research/SANSEITO-INSURANCE-CLAIMS-2026-10-05.md`. See the [public primary-source locator index](SOURCES.md).
+
+### F-009 — Tourism demand and spending / 観光需要と消費
+
+**Documented facts and measures.** Jan–Aug 訪日外客数 was **24,008,405 (2024), 28,384,099 (2025), 27,626,300 (2026)**. Q2 inbound spending, all second-preliminary releases, was **¥2.1402tn, ¥2.5043tn, ¥2.5125tn**, respectively. Official spending per general visitor was **¥239,028, ¥236,716, ¥244,733**.
+
+**Assessment.** Arrivals rose **18.23%** in 2025, then fell **2.67%** in 2026, remaining **15.07% above 2024**. Q2 nominal spending rose **17.01%**, then **0.33%**, leaving it **17.40% above 2024**. General-visitor average spending rose **3.39%** in 2026. Demand remains economically substantial, with softer arrival volume and nearly flat total spending in the latest comparable period.
+
+**Evidence boundary.** 訪日外客数 is broader than leisure tourists and counts entries, not unique people. JTA excludes Japan-resident foreigners and its general-visitor average excludes cruises. 2026 arrivals remain provisional/estimated; cruise spending has a sampling caveat. Nominal expenditure is not GDP contribution. Neither series identifies immigration tightening's causal effect, and partial periods do not establish the full 2026 year.
+
+**Source trace.** JNTO September 2026 monthly/historical visitor series; JTA Q2 2024, 2025 and 2026 second-preliminary spending reports. Exact URLs, definitions, arithmetic and source hashes: `research/TOURISM-COMPLETION-2026-10-05.md`. See the [public primary-source locator index](SOURCES.md).
+
+### F-010 — Overstay trends and status / 不法残留の傾向
+
+**Documented facts and measures.** Jan 1 administrative overstayer stock was **79,113 (2024), 74,863 (2025), 68,488 (2026)**. In 2026, status held when overstay began was Temporary Visitor **41,607**, Technical Intern **9,323**, Designated Activities **7,306**, Student **2,173**, Japanese-national spouse/child **1,724**, and Other **6,355**. Newly identified since Jan 1 2025 and still present on Jan 1 2026: **9,748**, including **3,737 Temporary Visitors**. A separate calendar-2025 occurrence analysis estimates **about 13,000**, including cases resolved within the year; it is not the same measure.
+
+**Assessment.** Stock fell **5.37%** and **8.52%** annually, **13.43%** across 2024→2026. Temporary Visitor comprises **60.75%** of 2026 stock but **38.34%** of new-and-still-present cases. It is a substantial and leading population; other prior statuses also matter. A broad claim that ordinary leisure tourists mainly cause overstaying remains unestablished.
+
+**Evidence boundary.** Prior status is not necessarily original entry status or travel motive. The new-case measure excludes same-year resolutions and is not annual incidence. The separate occurrence analysis mixes status and procedural/history bins; its two short-stay bins are not an exhaustive former-status cross-tab. Comparable earlier flows were NOT FOUND; SSW is not separately published in the checked annex. The statutory count includes some people temporarily permitted to stay lawfully. No matched visitor-overstay rate or policy-causal estimate is available from these tables.
+
+**Separate cross-module description:** Arrivals/spending above their 2024 comparison levels coexisted with lower Jan 1 overstayer stock. These are different populations and observation windows, with Jan 1 preceding that year's tourism periods. This is descriptive coexistence, not causation.
+
+**Source trace.** ISA Jan 1 2026 release and full statistical annex, Tables 1–5; ISA occurrence analysis reproduced by MAFF. Exact primary URLs, archived-source provenance, definitions and gap register: `research/OVERSTAYERS-COMPLETION-2026-10-05.md`. See the [public primary-source locator index](SOURCES.md).
+
+### F-011 — Restaurant bankruptcies / 飲食店倒産
+
+**Documented facts and measures.** TDB restaurant legal bankruptcies:768(2023),894(2024),900(2025); Jan–Jun 435(2024),458(2025),473(2026). H1 increases+5.29% before reform and+3.28% after are **DERIVED / INFERRED**. Annual 2025 straddles 16 Oct 2025. JF sampled nominal sales grew+7.3% in 2025 and+4.9% August 2026 YoY. Government new-permit/ceased-facility figures are administrative counts contaminated by transition between food-permit regimes, not actual enterprise births/deaths.
+
+**Assessment.** **NO ESTABLISHED LINK** between BM tightening and the national insolvency/closure trend. The increase began earlier. **POTENTIAL TRIGGER POINT** exists for affected individual BM restaurants: an original broadcaster interview records an owner's funding difficulty and possible future closure (**ATTRIBUTED**). Diet advocacy is **POLITICAL USE**, not a closure count.
+
+**Evidence boundary.** No ownership/nationality/BM-linked national closure cohort or quantified causal contribution. The named 3米3 Nerima closure/reform account is an attributed secondary lead: original FNN report 404 and 2026 owner statement **NOT FOUND**; do not upgrade to verified **DIRECT TRIGGER**. Anticipatory voluntary closures can occur during a legal transition. Chain nominal sales growth cannot disprove independent-owner harm; TDB bankruptcies cannot count all voluntary closures.
+
+**Source trace.** **SOURCE:** TDB's primary 2023–25 annual and 2024–26 H1 restaurant reports (private credit-research statistics); JF member sales/store survey; e-Stat food-permit tables; TV Asahi original 2026-04-09 owner interview and relevant Diet 2026-04-14 speeches. Completion note FS-07–11/14/18/21–22. See the [public primary-source locator index](SOURCES.md).
+
+### F-012 — Restaurant BM eligibility / 飲食業と経営・管理
+
+**Documented facts and measures.** No restaurant industry exclusion appears in the retained revised BM framework. It requires genuine management, corporate paid capital/investment≥¥30m and≥1 qualifying full-time employee, plus language, qualification/experience, expert-confirmed plan, premises/licence and compliance evidence. Existing-holder renewal transition differs from the explicit post-effective-date requirement to meet revised BM criteria for BM/BM-based specified HSP→PR. MAFF's 2024 capital-known food companies are about 80% below¥10m; JFC's 464 small corporate restaurant borrowers show median operating margin−0.4%, while 166 profitable/positive-equity borrowers average+4.3%.
+
+**Assessment.** A small restaurant may face a financing/staffing burden and continuity/public-obligation problems at renewal or later PR application. The blanket “restaurants cannot get BM anymore” formal-rule claim is **DISPUTED**; the reported lawyer statement remains **ATTRIBUTED / NOT YET VERIFIED**. Cooking/serving alone does not establish management activity.
+
+**Evidence boundary.** No restaurant-specific post-reform practice cohort, representative BM business economics or restaurant BM→PR outcome series found. Registered capital is not startup expenditure or a permanently untouched cash reserve; JFC borrowers are not BM restaurants. Restaurant failure does not automatically require PR refusal. Existing PR restaurant operators need not requalify under BM criteria; retaining PR and the separate 2027 cancellation/status-change regime remain distinct. F-002–F-007 and BM/PR closure statuses are unchanged.
+
+**Source trace.** **SOURCE:** Retained full ISA reform guidance 001448070, effective 16 Oct 2025; full e-Gov reply 0000300768; MAFF capital/structure statistics; JFC FY 2025 restaurant-borrower indicators; closed BM/PR findings. Completion note FS-01/12–18/23. See the [public primary-source locator index](SOURCES.md).
+
+### F-013 — Naturalisation consistency / 帰化と永住の整合
+
+**Documented facts and measures.** Government explicitly connects the April 1 residence/payment-review changes to the January package and consistency with PR. Its “easier” concern is framed as criticism/perception; the Nationality Act retains five years.
+
+**Assessment.** A **DIRECT TRIGGER** is established at policy decision level. Five-versus-ten residence durations alone do not measure overall application difficulty across distinct routes, exceptions and conditions.
+
+**Evidence boundary.** No matched-route difficulty study or residence-stratified applicant risk analysis identified. This is not a finding of ineffectiveness, invalidity, concealed analysis or policy disproportionality.
+
+**Source trace.** January 23, 2026 comprehensive policy package printed pp.12–13, measure 38 (full archived primary/hash matched); MOJ March 27 announcement (official indexed text); April 14 Senate Judicial Committee speeches 118/120/122 (full primary). Source IDs NAT-02/03/04 in [completion note](research/NATURALISATION-COMPLETION-2026-10-08.md). See the [public primary-source locator index](SOURCES.md).
+
+### F-014 — Naturalisation standards / 帰化審査の根拠
+
+**Documented facts and measures.** Residence and payment lookbacks tightened; qualitative integration/language assessment already existed. Quantitative context reviewed concerns annual outcomes or different insurance/PR populations. Applicant-specific risks and validation of the selected lookbacks were not found.
+
+**Assessment.** The public record establishes screening changes and administrative coherence, not quantified problem-to-measure fit or a separately new April Japanese examination. Broader compliance statistics are **POTENTIAL TRIGGER POINT / context only** without an identified causal link to these datasets. May 28 application-volume advocacy is **POLITICAL USE**; generic foreign-crime/medical-use narratives have **NO ESTABLISHED LINK** to the measures in reviewed evidence.
+
+**Evidence boundary.** Internal studies, operating exceptions and future cohort outcomes may refine or change empirical conclusions. No timing-only causation, matched-cohort approval rate, universal JLPT/salary/savings threshold or national Naturalisation abuse rate asserted.
+
+## Naturalisation closure — 2026-10-08 JST
+
+**CURRENT-EVIDENCE COMPLETE for F-013/F-014.** Six passes documented and self-reviewed by the lead assistant, not independently approved by a reviewer/team. Residuals are non-blocking for the bounded documentary conclusions, with explicit reopening for material new evidence. Other modules and JP-04 overall status remain unchanged; JP-04 is OPEN. No publication, release, DOI, website update or main merge.
+
+**Source trace.** NAT-02/04 policy and change descriptions; NAT-05/06 bureau document guidance; NAT-07 prior integration record; NAT-09 annual statistics; existing F-003/F-008 compliance context. Full matrix and search boundary in [completion note](research/NATURALISATION-COMPLETION-2026-10-08.md). See the [public primary-source locator index](SOURCES.md).
+
+### F-015 — Enforcement distribution / 取締統計
+
+**Documented facts and measures.** In 2025 overstay was 92.3% of principal grounds; 13,435 procedure subjects had illegal-work facts. Last-status Temporary Visitor/Technical Intern/Designated Activities were 77.4% of procedure subjects; interns/students were 91.0% of revocations. Stock, procedures, illegal-work counts and combined actual departures declined in their latest annual comparisons; revocations and escorted removals rose. January–July 2026 actual departures increased 7.2% versus the same 2025 window.
+
+**Assessment.** Different enforcement populations and stages have different concentrations/directions; no uniform foreign-resident compliance deterioration is established.
+
+**Evidence boundary.** Administrative selection/processing, overlapping populations and mixed reference windows prevent a representative violation rate, summed unique caseload, matched-cohort rate or causal policy estimate. Prior status is not current status or motive; partial-year outcomes are provisional.
+
+**Source trace.** ENF-01/03/05 and existing F-010 official stock register. See the [public primary-source locator index](SOURCES.md).
+
+### F-016 — Enforcement rationale / 取締政策の根拠
+
+**Documented facts and measures.** Official records expressly link illegal work/status abuse to targeted enforcement, remaining overstay/capacity to detection/removal measures, and BM business-substance concerns to review. PR public obligations and Naturalisation/PR consistency are separate documented drivers. No reviewed record links aggregate enforcement/revocation trends to those broader PR/Naturalisation measures.
+
+**Assessment.** Documentary fit is strongest where the regulated subject matches the cited problem; aggregate intern/student/overstay cases cannot supply missing quantitative justification for unrelated populations. Broad controls require their own rationale/evidence.
+
+**Evidence boundary.** Direct trigger labels record the government's decision rationale, not validated effectiveness or representative prevalence. No-link findings are bounded public-record searches, not proof of no internal analysis or a policy recommendation.
+
+
+## Enforcement closure — 2026-10-09 JST
+
+**CURRENT-EVIDENCE COMPLETE for bounded F-015/F-016.** Source IDs, separate administrative populations, calculations, trigger matrix, six method passes and residuals: [Enforcement completion](research/ENFORCEMENT-COMPLETION-2026-10-09.md). Self-reviewed by the lead assistant; no independent reviewer approval claimed. JP-04 remains OPEN. Other findings/modules unchanged; no publication or main merge.
+
+**Source trace.** ENF-07–14 and existing F-002–F-004/F-013. See the [public primary-source locator index](SOURCES.md).
+
+### F-017 — Training and SSW pathway / 育成就労・特定技能
+
+**Documented facts and measures.** Explicit workforce development/retention replaces Technical Intern's international skills-transfer purpose from1April2027; SSW alignment, conditional mobility, fee limits, employer/supervision requirements and numerical/regional controls respond to documented government concerns.
+
+**Assessment.** Mixed redesign with controlled expansion of access; not uniformly restrictive or an unrestricted opening. All eight policy-rationale DIRECT TRIGGER links above are retained.
+
+**Evidence boundary.** Documentary rationale is not efficacy; mobility/pathways conditional, SSW(ii) not universal, no representative abuse/mismatch/blocked-transfer prevalence. Operational effectiveness UNTESTABLE before commencement.
+
+**Source trace.** SSW-01–05/14. See the [public primary-source locator index](SOURCES.md).
+
+### F-018 — Intake forecast model / 受入枠の推計
+
+**Documented facts and measures.** Field policies combine vacancy/workforce evidence with FY2028 demand and productivity/recruitment forecasts, allocating residuals to separate SSW(i)/育成 ceilings. Construction presently settled national conditions contrast with projected decline. Inspections and fees document selected populations, not universal prevalence.
+
+**Assessment.** A conditional labour-need basis is established; exact quotas, waiting periods, regional fractions and fee threshold are not independently validated by the reviewed quantities.
+
+**Evidence boundary.** Forecast uncertainty, mismatched units, survey selection, exact-threshold derivation NOT FOUND, and future outcomes UNTESTABLE. No economic inevitability, optimality, proportionality verdict or absence-of-internal-analysis claim.
+
+
+## 育成就労 / SSW closure — 2026-10-09 JST
+
+**CURRENT-EVIDENCE COMPLETE for F-017/F-018.** [Completion note](research/SSW-IKUSEI-COMPLETION-2026-10-09.md) gives primary URLs/locators, classifications, correction and residuals. Eight DIRECT TRIGGER links mean express policy rationale, not efficacy or precise threshold validation. Operational effectiveness UNTESTABLE until after1April2027. Self-reviewed; no independent reviewer/publication clearance. Other findings unchanged; JP-04 remains OPEN.
+
+**Source trace.** SSW-05–10/12. See the [public primary-source locator index](SOURCES.md).
+
+### F-019 — Care sector capacity / 介護分野
+
+**Documented facts and measures.** 75+ population increased14.36% during2020–25; July certifications rose1.87% in2026. Care-worker stock was2126227 inOct2024, only487 above2023; FY2025care-related job ratio3.98 and65.8% respondent establishment insufficiency indicate continuing recruitment difficulty. Dec2025SSWcare67871 and介護15891 grew53.0%/30.0% YoY; survey foreign-route participation increased to18.6%, with substantial service-type differences.
+
+**Assessment.** Ageing-related demand and staffing pressure coexist with a growing foreign contribution. Observed participation is uneven across care services, not uniform national dependence.
+
+**Evidence boundary.** Population, certifications, service users, headcounts and immigration stocks differ. Complete matched all-status Japanese/foreign care-worker shares and a substitution/service-loss counterfactual were NOT FOUND; nationwide structural dependence remains **UNTESTABLE**. No timing-only causation, Japanese-only supply balance or causal policy estimate.
+
+**Source trace.** DEM-01–03; CARE-01–05/07–09 in [Care completion](research/CARE-SECTOR-COMPLETION-2026-10-10.md). See the [public primary-source locator index](SOURCES.md).
+
+### F-020 — Care residual forecast / 介護の必要数
+
+**Documented facts and measures.** The official FY2028 model deducts47100 productivity equivalents and51500 additional domestic recruits from259300 projected shortage, leaving **160700 residual foreign-worker requirement**. Domestic responses include wages, training/re-entry, recruitment, technology and retention; evidence shows some pay/retention improvements. Separate SSW(i)126900/育成33800 policy allocations correspond to the residual.
+
+**Assessment.** The official labour-need rationale explicitly accounts for domestic measures before foreign intake. This supports a conditional problem–measure link, not proof all domestic alternatives are exhausted.
+
+**Evidence boundary.** Forecast quantities/assumptions and future domestic gains are not observed vacancies or achieved staffing; ceilings are not annual entrants. No independently validated exact residual, inevitable foreign need, optimality or national structural-dependence verdict.
+
+## Demographic and Care checkpoint closure — 2026-10-10 JST
+**Demographic baseline and Care — CURRENT-EVIDENCE COMPLETE** for the recorded baseline and bounded F-019/F-020. Remaining matched-share/counterfactual, census/scenario, access and future-outcome gaps are nonblocking limitations of these findings; material new evidence can reopen the affected claim. Self-reviewed, no independent reviewer/publication approval. Agriculture/Manufacturing NOT STARTED; chapter PARTIAL; JP-04 OPEN. F-001–F-018 and other completed modules preserved.
+
+**Source trace.** CARE-05/08/10/11; existing SSW-05/07. See the [public primary-source locator index](SOURCES.md).
+
+### F-021 — Agriculture and manufacturing / 農業・製造業
+
+**Documented facts and measures.** Care demand linked to75+growth increases while staffing expansion stalls; agriculture's core workforce is shrinking and very old while hired employment is a counterweight; manufacturing shows long-run total/younger decline and persistent recent shortage indicators. Foreign employment or separately measured foreign routes increase in all three sectors.
+
+**Assessment.** Demographic/replacement exposure and recruitment pressure are measurable but differ by sector. Increasing foreign participation is documented without treating all sector employment as falling or foreign headcounts as dependency rates.
+
+**Evidence boundary.** Indicators, dates and populations differ; Japanese-only employment/full foreign-worker shares are not matched. Routes can change without new entrants. No timing-only causal attribution or national structural-dependence verdict.
+
+**Source trace.** DEM-01–03; CARE-01–09; AGR-01–06/11; MAN-01–03/05–08 in [selected-sector synthesis](research/SELECTED-SECTOR-SYNTHESIS-2026-10-10.md) and linked source registers. See the [public primary-source locator index](SOURCES.md).
+
+### F-022 — Sector intake counterfactual / 分野別残余需要
+
+**Documented facts and measures.** Government models deduct productivity/domestic recruitment from projected shortages and allocate FY2028 residuals160,700Care/99,600Agriculture/319,200industrial-product manufacturing to separate SSW(i)/育成 ceilings. Domestic measures are documented; offsets are assumed future contributions.
+
+**Assessment.** Conditional residual-demand justification is established. It is distinct from independently proving exact forecasts, exhausted domestic alternatives or nationwide structural dependence.
+
+**Evidence boundary.** Forecast assumptions, field boundaries, hours/quality and regional differences remain material to stronger claims. Matched complete worker coverage and credible substitution/service-or-output-loss counterfactuals are unavailable in the retained evidence. Nationwide structural dependence is **UNTESTABLE** in all three sectors.
+
+
+## Selected-sector chapter closure — 2026-10-10 JST
+Demographics, Care, Agriculture, Manufacturing and the selected-sector dependence chapter are **CURRENT-EVIDENCE COMPLETE** for bounded F-019–F-022. F-001–F-020 preserved; Food Service retains its existing separate findings. Exact shares, counterfactuals and forecasts remain limitations, not positive dependence findings. JP-04 overall OPEN; other modules and publication status unchanged. Lead self-review only, no independent/publication approval. This block supersedes earlier selected-sector not-started/partial statuses only.
+
+**Source trace.** CARE-05/10/11;AGR-07/08/10;MAN-04/09;existing SSW-04/05/07. See the [public primary-source locator index](SOURCES.md).
+
+### F-023 — Immigration fee economics / 手数料と財源
+
+**Documented facts and measures.** October2026 change/extension tariffs vary by granted period/channel; PR permission is ¥200,000 with qualifying ¥20,000 reduction; naturalisation has no government fee. Government expressly links fee revisions to costs, digital efficiency and wider immigration administration/support financing.
+
+**Assessment.** Administration/support financing and fee revenue for immigration-control funding are **DIRECT TRIGGER** links. Higher fees → deterrence/abuse prevention and medical/welfare-burden narratives have **NO ESTABLISHED LINK** in the checked record.
+
+**Evidence boundary.** Statutory ceilings are not payable tariffs. Illustrative revenue assumptions are not realised revenue; precise tariff derivation and matched income/household/behavioural effects are unavailable. No deterrence or proportionality verdict.
+
+**Source trace.** FEE-01–06/10–12 in [Fees appendix](research/FEES-COMPLETION-2026-10-10.md): ISA fee schedules/FAQ, current law/order, MOFA notice and Diet cost/revenue exchanges. See the [public primary-source locator index](SOURCES.md).
+
+### F-024 — JESTA target and effects / JESTA
+
+**Documented facts and measures.** ActNo.32 of2026 establishes pre-travel authorisation primarily for visa-exempt short-stay travellers plus specified landing/transit categories. FY2028 target / commencement no later than31March2029; not yet operational. Existing residents returning under valid re-entry/deemed-re-entry permission are generally outside ordinary authorisation.
+
+**Assessment.** Advance screening, route-circumvention prevention, avoiding later removal burden and visitor/queue management have **DIRECT TRIGGER** documentary links. Universal resident-status tightening has **NO ESTABLISHED LINK**. Zero Plan anxiety framing is **POLITICAL USE** only in its documented presentation sense.
+
+**Evidence boundary.** Final fee and exact operational date **NOT FOUND**; effectiveness **UNTESTABLE**. Stock, entrant flow and landing-stage exclusions are different populations; later figures do not prove the original2025 trigger. Broader carrier reporting does not imply universal personal authorisation.
+
+## Fees/JESTA and research-phase closure — 2026-10-10 JST
+
+**Fees — CURRENT-EVIDENCE COMPLETE. JESTA — CURRENT-EVIDENCE COMPLETE. JP-04 research phase — CURRENT-EVIDENCE COMPLETE.** F-001–F-022 unchanged. Residual future/access/calibration/effectiveness gaps are limits, not ordinary research blockers for the bounded findings. JP-04 remains **OPEN**: final Economic/Cross-policy/Trigger synthesis and publication review pending, not begun. Lead self-review only; no publication clearance or external publication.
+
+**Source trace.** JESTA-01–07 in [JESTA appendix](research/JESTA-COMPLETION-2026-10-10.md): Act32 notices, legislative text/outline, Cabinet policy, Zero Plan and Diet records. See the [public primary-source locator index](SOURCES.md).
+
+## 9. Comparative evidence audit and interpretive safeguards
+
+| Proposed inference | Documentary basis | Adjudication |
+|---|---|---|
+| Foreign workers are growing in selected sectors, therefore every sector is structurally dependent | Sector participation and recruitment indicators | **Not demonstrated:** matched output/service-loss counterfactuals absent |
+| Higher fee ceilings equal higher current payable fees | Legal Article 67 ceilings and separate implementing tariffs | **Incorrect:** compare actual procedure-specific tariffs and reductions |
+| A foreign share of an insurance nonpayment pool proves elevated nationality-specific risk | Pool counts | **Incorrect denominator**; intent is not captured |
+| Overstayer stock divided by annual arrivals gives tourist-offence probability | Administrative stock and entry flow | **Invalid stock/flow comparison** |
+| More restaurant failures prove the BM rule closed restaurants | Failures existed before reform | **No established causal link** |
+| JESTA already limits all existing residents | Enacted design and re-entry exceptions | **Incorrect scope**; not yet operating at evidence cutoff |
+| Officially stated reason proves an effective remedy | Policy explanations | **No:** DIRECT TRIGGER describes rationale, not impact |
+
+## 10. Evidence inventory and further disclosure
+
+The research ledger contains 24 substantive findings, separate completion records for Business Manager, PR, Naturalisation, Tourism, Overstayers, Food Service, Enforcement, 育成就労/SSW, Demographics, Care, Agriculture, Manufacturing, Fees and JESTA; a cross-sector synthesis and a consolidated trigger matrix. Publicly traceable official locators include ISA/MOJ and e-Gov laws, Diet proceedings, MHLW and MAFF releases, e-Stat, JNTO and the tourism agency, as specified in [SOURCES.md](SOURCES.md). Figures derived from different administrative universes are not combined, and documentation of a government rationale is separately labelled from empirical validation.
+
+**Research/publication qualification:** This expanded edition improves specificity and source navigation. The source index is selected rather than a line-number-level replication of every private source register; independent source-by-source and bilingual publication review is not certified. Further corrections should appear as dated public revisions rather than silent changes.
