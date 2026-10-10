@@ -3,10 +3,10 @@
 
 **Prepared by:** Ninomae Tsukumo | **Language:** English | **Case:** JP-04
 **Evidence cut-off:** 10 October 2026 (Japan Standard Time)
-**Document status:** PUBLIC EDITION — 10 October 2026; author-authorised publication; no independent reviewer certification claimed.
-**DOI:** Not assigned; registration deferred.
+**Document status:** **PUBLIC FINAL VERSION v1.0** — 10 October 2026; publisher-directed version freeze and documented seven-gate editorial review; not independently peer-reviewed.
+**Version:** 1.0 (English) | **DOI:** Not assigned — Zenodo deposit deferred.
 **Underlying research:** F-001–F-024, `FINDINGS.md`, frozen at research commit `50f57e2bb6d0e5ac20dacd68cde4807322ed9971`; final synthesis S-001–S-007 at `research/FINAL-SYNTHESIS-2026-10-10.md`.
-**Important:** The report distinguishes documented policy rationale from measured effects. The English and Japanese public editions are accompanied by a [primary-source locator index](SOURCES.md). Independent reviewer certification is not claimed.
+**Review trail:** [Seven-gate editorial review](SEVEN_GATE_FINAL_REVIEW.md) · [Bilingual equivalence](BILINGUAL_AUDIT.md) · [24-finding citation map](CLAIM_SOURCE_MATRIX.md) · [Primary-source index](SOURCES.md). Government rationale is not empirical proof of effectiveness; no third-party peer-review certification is claimed.
 
 ## Executive summary
 
