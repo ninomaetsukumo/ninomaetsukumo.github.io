@@ -4,7 +4,7 @@
 **Prepared by:** Ninomae Tsukumo | **Language:** English | **Case:** JP-04
 **Evidence cut-off:** 10 October 2026 (Japan Standard Time)
 **Document status:** **PUBLIC FINAL VERSION v1.0** — 10 October 2026; publisher-directed version freeze and documented seven-gate editorial review; not independently peer-reviewed.
-**Version:** 1.0 (English) | **DOI:** Not assigned — Zenodo deposit deferred.
+**Version:** 1.0 (English) | **DOI:** [10.5281/zenodo.23293255](https://doi.org/10.5281/zenodo.23293255).
 **Underlying research:** F-001–F-024, `FINDINGS.md`, frozen at research commit `50f57e2bb6d0e5ac20dacd68cde4807322ed9971`; final synthesis S-001–S-007 at `research/FINAL-SYNTHESIS-2026-10-10.md`.
 **Review trail:** [Seven-gate editorial review](SEVEN_GATE_FINAL_REVIEW.md) · [Bilingual equivalence](BILINGUAL_AUDIT.md) · [24-finding citation map](CLAIM_SOURCE_MATRIX.md) · [Primary-source index](SOURCES.md). Government rationale is not empirical proof of effectiveness; no third-party peer-review certification is claimed.
 
@@ -143,7 +143,7 @@ The report is based on the archived F-001–F-024 and S-001–S-007 analysis. Th
 
 ### Publication and review notice
 
-This edition has been publicly released at the publisher's direction. DOI registration is deferred. It is not an independent audit, and some primary-source originals remained access-limited as recorded in the case research. Method and factual limitations remain part of the report. See [public primary-source locators](SOURCES.md). The JP-04 research case may remain OPEN for later corrections and archival closure.
+This edition has been publicly released at the publisher's direction. Zenodo archival DOI: [10.5281/zenodo.23293255](https://doi.org/10.5281/zenodo.23293255). It is not an independent audit, and some primary-source originals remained access-limited as recorded in the case research. Method and factual limitations remain part of the report. See [public primary-source locators](SOURCES.md). The JP-04 research case may remain OPEN for later corrections and archival closure.
 
 
 ---
