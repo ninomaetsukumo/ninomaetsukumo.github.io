@@ -1,5 +1,8 @@
 # JAPAN — PROJECT BLACKBIRD
 
+**事例全体の関係図：** [インタラクティブ・エビデンスネットワーク](https://ninomaetsukumo.github.io/reports/JAPAN-JP-02/EVIDENCE_NETWORK.html) — 記録上の関係、分析上の接続、証拠の限界を区別しています。
+
+
 # JP-02 — 高市早苗・政治資金ネットワーク — 公開版
 
 **日本における政治献金、後援組織、企業・公共部門との接点、取引業者関係、および公開情報上の限界を検証するOSINT事例研究**
