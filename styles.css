@@ -219,3 +219,33 @@ body{font-family:Georgia,"Noto Serif JP",serif;line-height:1.55}
 :root[data-theme="dark"] .hero{background:radial-gradient(circle at 77% 44%,#0b6c8644,transparent 37%),repeating-linear-gradient(0deg,transparent 0 33px,#25b5d20b 34px),repeating-linear-gradient(90deg,transparent 0 33px,#25b5d20b 34px)}
 :root[data-theme="dark"] .case-grid .report-language-block .text-link{color:#50e6ec}
 @media(max-width:860px){.nav{min-height:75px}.nav-right{gap:8px}.hero{min-height:0;padding:70px 0 60px}.hero:before{opacity:.18}.case-grid{grid-template-columns:1fr}.brand{font-size:.88rem}.brand img{width:43px;height:43px}}
+
+
+/* Global research archive enhancement */
+.hero{background-image:linear-gradient(90deg,var(--bg) 1%,#ffffffdd 36%,#ffffff12 86%),url("assets/world-network.svg");background-repeat:no-repeat;background-position:center, right center;background-size:100% 100%,min(72vw,960px) auto;min-height:470px}
+.hero:before{display:none}.hero h1{max-width:950px;font-size:clamp(3rem,6vw,6rem)}.hero .lede{max-width:620px}
+.world-context{position:absolute;right:0;bottom:33px;display:flex;gap:10px;flex-direction:column;width:300px;text-align:right;color:#20506b}
+.world-context span{font:700 .55rem Inter,system-ui,sans-serif;letter-spacing:.17em}.world-context strong{font:italic 1.12rem/1.4 Georgia,serif}
+.research-top{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-bottom:18px}.research-top .section-kicker{margin:0}
+.case-search-label{font:600 .72rem Inter,system-ui,sans-serif;color:var(--muted);display:flex;align-items:center;gap:9px}
+.case-search-label input{min-width:170px;padding:8px 10px;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:4px}
+.research-shell{display:grid;grid-template-columns:minmax(0,1fr) 240px;gap:18px;align-items:start}
+.case-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}
+.case-grid .case-card:before{display:none}.case-grid .case-card{min-width:0}
+.case-grid .case-card .case-visual{display:block;width:100%;height:148px;object-fit:cover;margin:0}
+.case-grid .case-card h2{font-size:clamp(1.2rem,1.6vw,1.65rem);line-height:1.2}
+.case-grid .case-card p{font-size:.84rem}
+.case-grid .case-card .case-meta{font-size:.62rem}
+.scope-panel{background:var(--panel);padding:22px 18px;border:1px solid var(--line);border-radius:5px;position:sticky;top:110px}
+.scope-panel h3{font:700 .75rem Inter,system-ui,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#008da3;margin:0 0 12px}
+.scope-filter{display:block;width:100%;padding:10px 5px;border:0;border-bottom:1px solid var(--line);text-align:left;cursor:pointer;background:transparent;color:var(--text);font:500 .83rem Inter,system-ui,sans-serif}
+.scope-filter:hover,.scope-filter.active{color:#008b9e;background:var(--panel-2);font-weight:750}
+.scope-panel p{font: .76rem/1.65 Inter,system-ui,sans-serif;color:var(--muted);margin:18px 0 0}.scope-panel .art-note{font-size:.65rem}
+.archive-links{display:flex;gap:14px;flex-wrap:wrap}.archive-links a{background:var(--panel);border:1px solid var(--line);padding:11px 16px;font:700 .86rem Inter,system-ui,sans-serif;text-decoration:none}
+.case-card[hidden],#no-cases[hidden]{display:none!important}
+#no-cases{padding:22px;border:1px solid var(--line)}
+:root[data-theme="dark"] .hero{background-image:linear-gradient(90deg,var(--bg),#081727dc 40%,#08172775 100%),url("assets/world-network.svg")}
+:root[data-theme="dark"] .world-context{color:#b4e9f3}
+@media(max-width:1100px){.research-shell{grid-template-columns:minmax(0,1fr) 205px}.nav-right nav{gap:12px}}
+@media(max-width:780px){.research-shell{grid-template-columns:1fr}.scope-panel{position:static;order:-1}.scope-filter{display:inline-block;width:auto;margin-right:6px;padding:7px;border:1px solid var(--line);margin-bottom:6px}.case-grid{grid-template-columns:1fr 1fr}.world-context{display:none}.hero{background-position:center,right center;background-size:100%,cover}.nav-right nav{gap:9px}}
+@media(max-width:590px){.case-grid{grid-template-columns:1fr}.research-top{align-items:flex-start}.case-search-label{width:100%}.case-search-label input{flex:1;min-width:0}.hero h1{font-size:clamp(2.8rem,13vw,4.5rem)}.scope-panel{padding:14px}}
