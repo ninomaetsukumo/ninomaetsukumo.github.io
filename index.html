@@ -7,20 +7,20 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <link rel="alternate" hreflang="en" href="https://ninomaetsukumo.github.io/">
   <link rel="alternate" hreflang="ja" href="https://ninomaetsukumo.github.io/ja.html">
-  <title>Ninomae Tsukumo</title>
+  <title>Project Blackbird — Ninomae Tsukumo</title>
   <script>
     (function () {
       var saved = localStorage.getItem('theme');
-      var theme = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      var theme = saved || 'light';
       document.documentElement.setAttribute('data-theme', theme);
     }());
   </script>
-  <link rel="stylesheet" href="styles.css?v=20260917-2">
+  <link rel="stylesheet" href="styles.css?v=20261011-white-1">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap nav">
-      <a class="brand" href="#top">Ninomae Tsukumo</a>
+      <a class="brand" href="#top"><img src="assets/blackbird-logo.svg" alt="" aria-hidden="true"><span>Project Blackbird<small>By Ninomae Tsukumo</small></span></a>
       <div class="nav-right">
         <nav aria-label="Primary">
           <a href="#about">About</a>
@@ -41,25 +41,18 @@
 
   <main id="top">
     <section class="hero wrap">
-      <p class="eyebrow">Independent OSINT & public-record research</p>
-      <h1>Evidence first.<br>Claims separated from conclusions.</h1>
-      <p class="lede">I publish selected research on corporate, financial, governance, political-finance, and public-record questions under the Project Blackbird framework.</p>
-      <div class="actions">
-        <a class="button" href="#research">Published research</a>
-        <a class="button secondary" href="https://github.com/ninomaetsukumo">GitHub</a>
-      </div>
+      <p class="eyebrow">OBSERVE / INVESTIGATE / CONTEXTUALISE</p>
+      <h1>Project Blackbird</h1>
+      <p class="lede">Independent open-source research into political, economic and social issues across countries and international contexts.</p>
+      <p class="eyebrow" style="margin-top:27px">OPEN SOURCE INTELLIGENCE RESEARCH</p>
+      <p>Public records · Evidence-based analysis · Regional and global context</p>
+      <div class="actions"><a class="button" href="#research">View all cases →</a><a class="button secondary" href="#about">About the project</a></div>
     </section>
 
-    <section id="about" class="section wrap">
-      <p class="section-kicker">About</p>
-      <h2>Ninomae Tsukumo</h2>
-      <p><strong>Ninomae Tsukumo is a pseudonym</strong> used as the publication and research identity for Project Blackbird.</p>
-      <p>I am an independent researcher focused on open-source intelligence, corporate and financial analysis, governance, transaction context, and public records.</p>
-      <p>Only research that has completed a publication review is listed here. Working files, unpublished investigations, private evidence, and sensitive material are not part of this public site.</p>
-    </section>
 
     <section id="research" class="section wrap">
       <p class="section-kicker">Published research</p>
+      <div class="case-grid">
 
       <article class="case-card">
         <div class="case-meta">
@@ -140,6 +133,15 @@
           </div>
         </div>
       </article>
+      </div>
+    </section>
+
+    <section id="about" class="section wrap">
+      <p class="section-kicker">About</p>
+      <h2>Ninomae Tsukumo</h2>
+      <p><strong>Ninomae Tsukumo is a pseudonym</strong> used as the publication and research identity for Project Blackbird.</p>
+      <p>I am an independent researcher focused on open-source intelligence, corporate and financial analysis, governance, transaction context, and public records.</p>
+      <p>Only research that has completed a publication review is listed here. Working files, unpublished investigations, private evidence, and sensitive material are not part of this public site.</p>
     </section>
 
     <section id="method" class="section wrap">
