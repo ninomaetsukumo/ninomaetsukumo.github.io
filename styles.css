@@ -175,3 +175,47 @@ html[lang="ja"] .hero h1 { line-height: 1.08; letter-spacing: -.035em; }
   .case-card { padding: 24px; }
   .case-meta span::after { display: none; }
 }
+
+
+/* Project Blackbird — white intelligence archive, October 2026 */
+:root,:root[data-theme="light"]{--bg:#f8fbfd;--panel:#fff;--panel-2:#f1f7fa;--text:#102037;--muted:#56697d;--line:#d7e4eb;--accent:#04c5d0;--header-bg:rgba(255,255,255,.95);--button-text:#08202a;--max:1370px;color-scheme:light}
+:root[data-theme="dark"]{--bg:#081727;--panel:#102337;--panel-2:#132b40;--text:#f2fbff;--muted:#bed0dd;--line:#294658;--accent:#19d4da;--header-bg:rgba(8,23,39,.96);--button-text:#041822;color-scheme:dark}
+body{font-family:Georgia,"Noto Serif JP",serif;line-height:1.55}
+.site-header{box-shadow:0 2px 16px #14273c08}
+.nav{min-height:92px}.brand{display:flex;align-items:center;gap:10px;font-family:Inter,system-ui,sans-serif;font-size:1.02rem;letter-spacing:.17em;text-transform:uppercase;color:var(--text)}
+.brand img{width:55px;height:55px;object-fit:contain;flex-shrink:0}
+.brand small{display:block;font-size:.55rem;letter-spacing:.32em;color:#35869b;margin-top:2px}
+.nav-right nav a{font-family:Inter,system-ui,sans-serif;font-size:.84rem;color:var(--text)}
+.nav-right nav a:hover{color:#0096a6}
+.language-switch,.theme-toggle{border-radius:3px;font-family:Inter,system-ui,sans-serif}
+.hero{position:relative;padding:80px 0 76px;min-height:450px;background:radial-gradient(circle at 77% 44%,#ccf8ff70,transparent 37%),repeating-linear-gradient(0deg,transparent 0 33px,#25b5d20b 34px),repeating-linear-gradient(90deg,transparent 0 33px,#25b5d20b 34px)}
+.hero:before{content:"";position:absolute;right:4%;top:8%;height:340px;width:min(51%,660px);pointer-events:none;opacity:.32;border-radius:50%;border:1px solid #13a5c3;background:repeating-radial-gradient(circle at 51% 49%,transparent 0 42px,#38b8d434 43px,transparent 44px 70px),linear-gradient(30deg,transparent 49.8%,#2abacc55 50%,transparent 50.2%);mask-image:radial-gradient(circle,#000 45%,transparent 71%)}
+.hero>*{position:relative;z-index:1}.eyebrow,.section-kicker{color:#048ca1;letter-spacing:.26em;font-family:Inter,system-ui,sans-serif;font-size:.7rem}
+.hero h1{font-size:clamp(3.1rem,6.2vw,6.8rem);max-width:890px;letter-spacing:-.045em;line-height:1.03}
+.lede{max-width:650px;color:var(--text);font-size:clamp(1.08rem,1.8vw,1.43rem);margin-top:22px}
+.button{background:var(--accent);border-color:var(--accent);color:var(--button-text);border-radius:3px;font-family:Inter,system-ui,sans-serif;font-size:.88rem}
+.button.secondary{background:var(--panel);border:1px solid #9fb8cb}
+.actions{gap:12px}.actions.compact{gap:10px}
+.section{padding:65px 0}.section h2{font-family:Georgia,"Noto Serif JP",serif}
+#research{background:transparent}#research>.section-kicker{margin-bottom:18px}
+.case-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.case-grid .case-card{padding:0;overflow:hidden;background:var(--panel);border:1px solid var(--line);border-radius:5px;box-shadow:0 5px 18px #14273c0a}
+.case-grid .case-card:before{content:"";height:125px;display:block;background:radial-gradient(circle at 82% 22%,#77cde0 0,#d7f5fb 22%,transparent 45%),linear-gradient(115deg,#d6e7f0 0%,#94bdd1 47%,#174360 100%)}
+.case-grid .case-card:nth-child(2):before{background:linear-gradient(130deg,#b0becb,#d8e0e6 54%,#698ca2)}
+.case-grid .case-card:nth-child(3):before{background:linear-gradient(135deg,#bce7ee,#4d9fbd 55%,#1e5776)}
+.case-grid .case-card:nth-child(4):before{background:linear-gradient(135deg,#d4edf6,#6ca8c3 54%,#24506b)}
+.case-grid .case-card>*{margin-left:20px;margin-right:20px}
+.case-grid .case-card .case-meta{margin-top:18px;font-family:Inter,system-ui,sans-serif;font-size:.68rem;gap:5px 10px}
+.case-grid .case-card .case-meta span:after{margin-left:10px}
+.case-grid .case-card h2{font-size:clamp(1.25rem,1.7vw,1.9rem);margin-top:9px;margin-bottom:8px}
+.case-grid .case-card p{font-size:.9rem;line-height:1.5;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-top:9px;margin-bottom:9px}
+.case-grid .case-card .case-subtitle{color:var(--text)!important}
+.case-grid .report-language-block{border-top:1px solid var(--line);padding:15px 0 18px;margin-top:15px;font-family:Inter,system-ui,sans-serif;font-size:.76rem}
+.case-grid .report-language-block .actions{margin-top:8px}
+.case-grid .report-language-block .button{padding:6px 10px;font-size:.72rem}
+.case-grid .report-language-block .text-link{font-size:.72rem;color:#007f91}
+#about{border-top:1px solid var(--line)}
+#method .grid{border-radius:4px;overflow:hidden}
+:root[data-theme="dark"] .hero{background:radial-gradient(circle at 77% 44%,#0b6c8644,transparent 37%),repeating-linear-gradient(0deg,transparent 0 33px,#25b5d20b 34px),repeating-linear-gradient(90deg,transparent 0 33px,#25b5d20b 34px)}
+:root[data-theme="dark"] .case-grid .report-language-block .text-link{color:#50e6ec}
+@media(max-width:860px){.nav{min-height:75px}.nav-right{gap:8px}.hero{min-height:0;padding:70px 0 60px}.hero:before{opacity:.18}.case-grid{grid-template-columns:1fr}.brand{font-size:.88rem}.brand img{width:43px;height:43px}}
