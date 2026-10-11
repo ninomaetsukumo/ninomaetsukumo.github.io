@@ -15,19 +15,14 @@
       document.documentElement.setAttribute('data-theme', theme);
     }());
   </script>
-  <link rel="stylesheet" href="styles.css?v=20261011-white-1">
+  <link rel="stylesheet" href="styles.css?v=20261011-world-2">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap nav">
       <a class="brand" href="#top"><img src="assets/blackbird-logo.svg" alt="" aria-hidden="true"><span>Project Blackbird<small>By Ninomae Tsukumo</small></span></a>
       <div class="nav-right">
-        <nav aria-label="Primary">
-          <a href="#about">About</a>
-          <a href="#research">Research</a>
-          <a href="#method">Method</a>
-          <a href="#contact">Contact</a>
-        </nav>
+        <nav aria-label="Primary navigation"><a href="#top">Home</a><a href="#research">Cases</a><a href="#method">Methodology</a><a href="#archive">Archive</a><a href="#about">About</a><a href="#contact">Contact</a></nav>
         <div class="language-switch" aria-label="Language">
           <span class="active" aria-current="page">EN</span>
           <a href="ja.html" lang="ja">日本語</a>
@@ -47,14 +42,14 @@
       <p class="eyebrow" style="margin-top:27px">OPEN SOURCE INTELLIGENCE RESEARCH</p>
       <p>Public records · Evidence-based analysis · Regional and global context</p>
       <div class="actions"><a class="button" href="#research">View all cases →</a><a class="button secondary" href="#about">About the project</a></div>
+      <aside class="world-context"><span>PUBLIC RECORDS / OPEN DATA / INTERNATIONAL CONTEXT</span><strong>A broader lens.<br>A clearer picture.</strong></aside>
     </section>
 
 
     <section id="research" class="section wrap">
-      <p class="section-kicker">Published research</p>
-      <div class="case-grid">
+      <div class="research-top"><p class="section-kicker">Featured cases</p><label class="case-search-label">Search cases <input id="case-search" type="search" placeholder="Keyword or case ID" aria-label="Search cases"></label></div><div class="research-shell"><div class="case-grid">
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp04" data-scope="regulation"><img class="case-visual" src="assets/case-jp04.svg" alt="Illustrative artwork for the case topic; not a documentary photograph." loading="lazy">
         <div class="case-meta">
           <span>JAPAN — Project Blackbird</span>
           <span>Published — 10 Oct 2026</span>
@@ -74,7 +69,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp03" data-scope="society"><img class="case-visual" src="assets/case-jp03.svg" alt="Illustrative artwork for the case topic; not a documentary photograph." loading="lazy">
         <div class="case-meta">
           <span>JAPAN — Project Blackbird</span>
           <span>Open-source investigation complete</span>
@@ -93,7 +88,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp02" data-scope="policy"><img class="case-visual" src="assets/case-jp02.svg" alt="Illustrative artwork for the case topic; not a documentary photograph." loading="lazy">
         <div class="case-meta">
           <span>JAPAN — Project Blackbird</span>
           <span>Published — 27 Sep 2026</span>
@@ -114,7 +109,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp01" data-scope="economy"><img class="case-visual" src="assets/case-jp01.svg" alt="Illustrative artwork for the case topic; not a documentary photograph." loading="lazy">
         <div class="case-meta">
           <span>JAPAN — Project Blackbird</span>
           <span>Published</span>
@@ -133,8 +128,9 @@
           </div>
         </div>
       </article>
-      </div>
-    </section>
+      </div><aside class="scope-panel"><h3>Research scope</h3><button class="scope-filter active" type="button" data-filter="all">All cases</button><button class="scope-filter" type="button" data-filter="policy">Policy &amp; politics</button><button class="scope-filter" type="button" data-filter="economy">Economy &amp; business</button><button class="scope-filter" type="button" data-filter="society">Society &amp; public safety</button><button class="scope-filter" type="button" data-filter="regulation">Regulation &amp; governance</button><p>Blackbird has an international remit. Only cases supported by publication materials appear here.</p><p class="art-note">Visuals are illustrative, not photographic evidence from investigations.</p></aside></div><p id="no-cases" hidden>No matching cases.</p></section>
+    <section id="archive" class="section wrap"><p class="section-kicker">Archive</p><h2>Permanent publication records</h2><p>Published case reports receive editorial review, not necessarily independent peer review. Each available DOI links to the corresponding Zenodo archive.</p><div class="archive-links"><a href="https://doi.org/10.5281/zenodo.22987567">JP-01 DOI</a><a href="https://doi.org/10.5281/zenodo.22990997">JP-02 DOI</a><a href="https://doi.org/10.5281/zenodo.23293255">JP-04 DOI</a></div></section>
+
 
     <section id="about" class="section wrap">
       <p class="section-kicker">About</p>
@@ -187,5 +183,13 @@
     }());
   </script>
   <!-- deployment-refresh: jp01-doi-20260927 -->
+<script>
+(function(){
+ var input=document.getElementById('case-search'),items=Array.from(document.querySelectorAll('.case-card[data-case]')),buttons=Array.from(document.querySelectorAll('.scope-filter')),active='all',empty=document.getElementById('no-cases');
+ function render(){var term=(input.value||'').toLocaleLowerCase().trim(),count=0;items.forEach(function(item){var ok=(!term||item.textContent.toLocaleLowerCase().includes(term)||item.dataset.case.includes(term))&&(active==='all'||item.dataset.scope===active);item.hidden=!ok;if(ok)count++;});if(empty)empty.hidden=count!==0;}
+ if(input)input.addEventListener('input',render);
+ buttons.forEach(function(button){button.addEventListener('click',function(){active=button.dataset.filter;buttons.forEach(function(b){b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',b===button?'true':'false')});render()})});
+})();
+</script>
 </body>
 </html>
