@@ -249,3 +249,10 @@ body{font-family:Georgia,"Noto Serif JP",serif;line-height:1.55}
 @media(max-width:1100px){.research-shell{grid-template-columns:minmax(0,1fr) 205px}.nav-right nav{gap:12px}}
 @media(max-width:780px){.research-shell{grid-template-columns:1fr}.scope-panel{position:static;order:-1}.scope-filter{display:inline-block;width:auto;margin-right:6px;padding:7px;border:1px solid var(--line);margin-bottom:6px}.case-grid{grid-template-columns:1fr 1fr}.world-context{display:none}.hero{background-position:center,right center;background-size:100%,cover}.nav-right nav{gap:9px}}
 @media(max-width:590px){.case-grid{grid-template-columns:1fr}.research-top{align-items:flex-start}.case-search-label{width:100%}.case-search-label input{flex:1;min-width:0}.hero h1{font-size:clamp(2.8rem,13vw,4.5rem)}.scope-panel{padding:14px}}
+
+
+/* Approved mockup-derived images — October 2026 */
+.hero{background-image:linear-gradient(90deg,var(--bg) 0%,rgba(248,251,253,.97) 27%,rgba(248,251,253,.80) 43%,rgba(248,251,253,.06) 74%),url("assets/hero-background.png");background-position:center,right center;background-repeat:no-repeat;background-size:100% 100%,min(64vw,900px) auto}
+.case-grid .case-card .case-visual{height:160px;object-fit:cover;object-position:center}
+:root[data-theme="dark"] .hero{background-image:linear-gradient(90deg,var(--bg) 0%,rgba(8,23,39,.94) 34%,rgba(8,23,39,.42) 65%),url("assets/hero-background.png")}
+@media(max-width:780px){.hero{background-size:100% 100%,auto 100%;background-position:center,67% center}.case-grid .case-card .case-visual{height:168px}}
