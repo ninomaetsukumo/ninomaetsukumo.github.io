@@ -1,5 +1,8 @@
 # JP-03 — Henoko / Doshisha School-Trip Boat Capsizing
 
+**Case-wide evidence map:** [Interactive Evidence Network](https://ninomaetsukumo.github.io/reports/JAPAN-JP-03/EVIDENCE_NETWORK.html) — distinguishes documented relationships, analytical models and evidence limits.
+
+
 **Project Blackbird public report**  
 **Research cut-off:** 21 September 2026  
 **Status:** Closed as an open-source research snapshot. Reopen only for material new evidence, including a JTSB final report, prosecutorial/court disposition, newly released official records, or substantial first-hand testimony.
