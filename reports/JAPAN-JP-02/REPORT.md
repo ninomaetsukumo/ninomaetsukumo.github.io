@@ -1,5 +1,8 @@
 # JAPAN — PROJECT BLACKBIRD
 
+**Case-wide evidence map:** [Interactive Evidence Network](https://ninomaetsukumo.github.io/reports/JAPAN-JP-02/EVIDENCE_NETWORK.html) — distinguishes documented relationships, analytical models and evidence limits.
+
+
 # JP-02 — TAKAICHI POLITICAL-FUNDING NETWORK — PUBLIC EDITION
 
 **A Public-Record OSINT Case Study of Political Donations, Support Organisations, Business/Public-Sector Intersections, Vendor Relationships, and Evidentiary Limits in Japan**
