@@ -8,6 +8,8 @@
 **Underlying research:** F-001–F-024, `FINDINGS.md`, frozen at research commit `50f57e2bb6d0e5ac20dacd68cde4807322ed9971`; final synthesis S-001–S-007 at `research/FINAL-SYNTHESIS-2026-10-10.md`.
 **Review trail:** [Seven-gate editorial review](SEVEN_GATE_FINAL_REVIEW.md) · [Bilingual equivalence](BILINGUAL_AUDIT.md) · [24-finding citation map](CLAIM_SOURCE_MATRIX.md) · [Primary-source index](SOURCES.md). Government rationale is not empirical proof of effectiveness; no third-party peer-review certification is claimed.
 
+**Case-wide visualization:** [Interactive JP-04 evidence network](https://ninomaetsukumo.github.io/reports/JAPAN-JP-04/EVIDENCE_NETWORK.html). Maps policy domains, economic channels and evidence limitations; connections do not establish causation.
+
 ## Executive summary
 
 Japan's current foreign-national policy landscape is better described as **differentiated economic access alongside targeted immigration and administrative control** than as a single uniform policy of restriction. The retained official evidence documents labour recruitment and intake pathways, more demanding entry and compliance rules for certain statuses, differentiated application fees, enforcement directed at specified violations, and legislated pre-travel screening for specified visitors. These instruments address different populations; they cannot fairly be collapsed into a claim about all foreign nationals. [S-001; F-002–F-024]
