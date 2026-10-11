@@ -15,19 +15,14 @@
       document.documentElement.setAttribute('data-theme', theme);
     }());
   </script>
-  <link rel="stylesheet" href="styles.css?v=20261011-white-1">
+  <link rel="stylesheet" href="styles.css?v=20261011-world-2">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap nav">
       <a class="brand" href="#top"><img src="assets/blackbird-logo.svg" alt="" aria-hidden="true"><span>Project Blackbird<small>By Ninomae Tsukumo</small></span></a>
       <div class="nav-right">
-        <nav aria-label="主要ナビゲーション">
-          <a href="#about">概要</a>
-          <a href="#research">公開研究</a>
-          <a href="#method">方法論</a>
-          <a href="#contact">連絡先</a>
-        </nav>
+        <nav aria-label="主要ナビゲーション"><a href="#top">ホーム</a><a href="#research">事例</a><a href="#method">調査方法</a><a href="#archive">アーカイブ</a><a href="#about">概要</a><a href="#contact">連絡先</a></nav>
         <div class="language-switch" aria-label="言語">
           <a href="index.html" lang="en">EN</a>
           <span class="active" aria-current="page">日本語</span>
@@ -47,14 +42,14 @@
       <p class="eyebrow" style="margin-top:27px">OPEN SOURCE INTELLIGENCE RESEARCH</p>
       <p>公開資料・証拠重視の分析・国際的な視点</p>
       <div class="actions"><a class="button" href="#research">公開事例を見る →</a><a class="button secondary" href="#about">プロジェクトについて</a></div>
+      <aside class="world-context"><span>PUBLIC RECORDS / OPEN DATA / INTERNATIONAL CONTEXT</span><strong>国境を越えた視点。<br>証拠を通じた理解。</strong></aside>
     </section>
 
 
     <section id="research" class="section wrap">
-      <p class="section-kicker">公開研究</p>
-      <div class="case-grid">
+      <div class="research-top"><p class="section-kicker">事例・調査資料</p><label class="case-search-label">事例を検索 <input id="case-search" type="search" placeholder="キーワード・事件番号" aria-label="事例検索"></label></div><div class="research-shell"><div class="case-grid">
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp04" data-scope="regulation"><img class="case-visual" src="assets/case-jp04.svg" alt="事例テーマの抽象的なイラスト。実際の現場写真ではありません。" loading="lazy">
         <div class="case-meta">
           <span>日本 — Project Blackbird</span>
           <span>公開済み — 2026年10月10日</span>
@@ -74,7 +69,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp03" data-scope="society"><img class="case-visual" src="assets/case-jp03.svg" alt="事例テーマの抽象的なイラスト。実際の現場写真ではありません。" loading="lazy">
         <div class="case-meta">
           <span>日本 — Project Blackbird</span>
           <span>公開情報調査完了</span>
@@ -93,7 +88,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp02" data-scope="policy"><img class="case-visual" src="assets/case-jp02.svg" alt="事例テーマの抽象的なイラスト。実際の現場写真ではありません。" loading="lazy">
         <div class="case-meta">
           <span>日本 — Project Blackbird</span>
           <span>公開済み — 2026年9月27日</span>
@@ -114,7 +109,7 @@
         </div>
       </article>
 
-      <article class="case-card">
+      <article class="case-card" data-case="jp01" data-scope="economy"><img class="case-visual" src="assets/case-jp01.svg" alt="事例テーマの抽象的なイラスト。実際の現場写真ではありません。" loading="lazy">
         <div class="case-meta">
           <span>日本 — Project Blackbird</span>
           <span>公開済み</span>
@@ -133,8 +128,9 @@
           </div>
         </div>
       </article>
-      </div>
-    </section>
+      </div><aside class="scope-panel"><h3>調査領域</h3><button class="scope-filter active" type="button" data-filter="all">すべての事例</button><button class="scope-filter" type="button" data-filter="policy">政策・政治</button><button class="scope-filter" type="button" data-filter="economy">経済・企業</button><button class="scope-filter" type="button" data-filter="society">社会・公共安全</button><button class="scope-filter" type="button" data-filter="regulation">法規制・行政</button><p>対象地域は日本に限定されません。公開可能な調査のみ掲載しています。</p><p class="art-note">※ビジュアルは説明用イラストです。事実関係を示す写真資料ではありません。</p></aside></div><p id="no-cases" hidden>一致する事例はありません。</p></section>
+    <section id="archive" class="section wrap"><p class="section-kicker">アーカイブ</p><h2>公開研究の恒久記録</h2><p>査読済みという意味ではなく、七つの編集審査基準を適用した公開資料です。公開されたDOIはZenodoの記録に接続されています。</p><div class="archive-links"><a href="https://doi.org/10.5281/zenodo.22987567">JP-01 DOI</a><a href="https://doi.org/10.5281/zenodo.22990997">JP-02 DOI</a><a href="https://doi.org/10.5281/zenodo.23293255">JP-04 DOI</a></div></section>
+
 
     <section id="about" class="section wrap">
       <p class="section-kicker">概要</p>
@@ -187,5 +183,13 @@
     }());
   </script>
   <!-- deployment-refresh: jp01-doi-20260927 -->
+<script>
+(function(){
+ var input=document.getElementById('case-search'),items=Array.from(document.querySelectorAll('.case-card[data-case]')),buttons=Array.from(document.querySelectorAll('.scope-filter')),active='all',empty=document.getElementById('no-cases');
+ function render(){var term=(input.value||'').toLocaleLowerCase().trim(),count=0;items.forEach(function(item){var ok=(!term||item.textContent.toLocaleLowerCase().includes(term)||item.dataset.case.includes(term))&&(active==='all'||item.dataset.scope===active);item.hidden=!ok;if(ok)count++;});if(empty)empty.hidden=count!==0;}
+ if(input)input.addEventListener('input',render);
+ buttons.forEach(function(button){button.addEventListener('click',function(){active=button.dataset.filter;buttons.forEach(function(b){b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',b===button?'true':'false')});render()})});
+})();
+</script>
 </body>
 </html>
