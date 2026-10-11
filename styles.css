@@ -256,3 +256,7 @@ body{font-family:Georgia,"Noto Serif JP",serif;line-height:1.55}
 .case-grid .case-card .case-visual{height:160px;object-fit:cover;object-position:center}
 :root[data-theme="dark"] .hero{background-image:linear-gradient(90deg,var(--bg) 0%,rgba(8,23,39,.94) 34%,rgba(8,23,39,.42) 65%),url("assets/hero-background.png")}
 @media(max-width:780px){.hero{background-size:100% 100%,auto 100%;background-position:center,67% center}.case-grid .case-card .case-visual{height:168px}}
+
+/* Clean text-only case cards: no placeholder image region. */
+.case-grid .case-card::before,.case-grid .case-card .case-visual{display:none!important}
+.case-grid .case-card .case-meta{margin-top:20px}
